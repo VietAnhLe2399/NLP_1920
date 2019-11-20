@@ -11,6 +11,7 @@
 - Random Vietnamese guy: https://sites.google.com/site/faded741997/keywordextractionvnese
 
 3. Process:
-- 09/11/2019: Add TF-IDF version
-- 11/11/2019: Add RAKE version
+- 09/11/2019: Add TF-IDF version.
+- 11/11/2019: Add RaKe version.
+- 20/11/2019: Add TextRank (by Gensim) version.
 - ...
