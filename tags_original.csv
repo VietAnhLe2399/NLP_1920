@@ -1,0 +1,1123 @@
+,fileName,tags
+0,43,systems biology;systems;biological model;robustness;emergence
+1,43,design;cell;metabolism;intro;parsimony
+2,43,engineering;2002;network;robustness;biology
+3,43,robustness;engineering;control
+4,43,systems biology;robustness
+5,43,key  systems biology;key  robustness;type  review;key  regulatory network
+6,43,modeling;complexity;networks
+7,44,complexity;graphs;network
+8,44,exploring;network;networks
+9,44,social networks;networks
+10,44,adaptive systems;networks;complexity;bistability
+11,44,networks;complex
+12,44,neurons;networks
+13,44,complex networks;survey
+14,44,complexity;small world;network;2001
+15,44,social networks;graph mining;graph
+16,44,coupled oscillator;small world;complex networks
+17,44,review;network biological
+18,44,review;networks;survey;strogatz
+19,44,networks;complex
+20,44,review;network;graph
+21,47,complexity;networks
+22,47,model;small world;navigation;complex networks
+23,47,networks;navigation;small world;search
+24,47,navigation;citeulike;networks
+25,47,web graph;social
+26,47,small world;network
+27,47,small world;networks
+28,99,small world;clustering;model;social networks;complex networks
+29,99,complex systems;complex networks;network;small world
+30,99,model;network
+31,99,networks;small world
+32,99,dynamics;networks
+33,99,small world;network dynamics
+34,99,graphs;network
+35,99,theoretical;small world;networks;dynamics
+36,99,bistability;networks;complexity;time oriented science
+37,99,small world;social networks;small world networks
+38,99,complex;dynamics;systems;network
+39,99,datamining;network;graphs
+40,99,networks;dynamics
+41,99,smallworld;network;graph;thesis
+42,99,small world;networks;disease;dynamic
+43,101,combinatorics;networks;applied math;complexity
+44,101,link analysis;web characterization;data mining
+45,101,motifs;network
+46,101,graphs;datamining;network
+47,101,motifs;networks;original
+48,101,2002;complexity;network;sub graph pattern;motif
+49,101,combinatorics;computer science;motifs;complexity;applied math;network;web graph;sub graph pattern;motif;networks;original
+50,101,networks;motifs
+51,101,net paper;networks
+52,101,networks;motifs
+53,101,motifs;network
+54,101,motif;network
+55,101,motifs;networks
+56,101,protein protein;protein;modularity;patterns;networks
+57,101,sysbio;motifs;networks;network
+58,229,evolution;msa;rodents;genome
+59,229,system  mouse;key  genome
+60,229,mouse;genomepaper
+61,229,genome;mouse
+62,229,whole genome;mouse;genome;comparative genomics;sequence
+63,229,whole genome;sequencing
+64,229,cited;11
+65,229,comparative genomics;mouse;genome paper
+66,248,systemsbiology;sec background sysbio;review;sysbio;overview;dt
+67,248,systems biology;review
+68,248,systemsbiology;review
+69,248,review;sysbio;printed;plasticity;overview;systemsbiology
+70,248,systemsbiology;review
+71,249,biological model;systems biology;modelling
+72,249,modelling;complexity;2002;biology
+73,249,review;systems biology
+74,249,computational;biology;systems
+75,249,neuron;intro;evolution;informationtheory;simulation;metabolism;cas
+76,249,overview;sec background sysbio;review;systemsbiology;sysbio;dt
+77,272,evolution;motifs
+78,272,genome;network;regulatory;topology
+79,272,scale free;transcription network
+80,272,network;dynamics
+81,272,regulation;trn;network;transcription
+82,272,protein networks;systems biology
+83,272,topology;networks
+84,272,dynamics;yeast;simulation;network;metabolism
+85,272,reconstruct pathway;graph based analysis;bio
+86,272,tfs;bioinformatics;yeast
+87,272,dynamic;regulatory;network
+88,272,datasets;networks
+89,292,agi;ai
+90,292,experimental;biological;for;design;systems
+91,292,design;literature based discovery;biological;scientist;robot;automation;experimental;systems;for
+92,2100,yeast;proteomics;systems;analysis;array;methodspaper;genomics;network;integration;deletion;expression;model;bioinformatics
+93,2100,genome;perturbed;protein;network;metabolic
+94,2100,systemsbiology;popcorn
+95,2100,genomics;networks;metabolic networks;bioinformatics;systems biology;proteomics
+96,2100,data integration;reverse engineering
+97,2107,yeast;networks
+98,2107,affin cut;review
+99,2107,transcriptional regulation;network;thesis;genomics;yeast;networks;bivoc;chip
+100,2107,network motifs;tfnets
+101,2107,chip;genomics;transcriptional regulation;yeast
+102,2107,yeast;genomic
+103,2107,gene;expression;feedback;yeast
+104,2107,yeast;networks
+105,2107,chip2;cis regulation;transcription;reconstruction;network
+106,3594,network;interaction;protein protein
+107,3594,sysbio;networks;regulation;transcription;yeast
+108,3594,networks;motifs
+109,3594,motifs;sysbio;networks
+110,3594,genetics;regulation;network
+111,3594,networks;motifs
+112,3594,regulatory;network;network motif;p2p
+113,80410,long evans;neuroscience;cat;two photon;rat;imaging;column;calcium;cortex;visual
+114,80410,neuroimaging;network;functional;cellular;neuroanatomy;architecture
+115,80410,twophoton;optical imaging;localcircuit;neuroanatomy
+116,80410,brain anatomy;methods;neuro tech;neuro connectivity
+117,80410,visual cortex;optical imaging;columnar organization
+118,80410,visual;imaging;cortex;neuroscience
+119,80410,rat;2p;columns;functional;imaging;anatomy;calcium;circuits;cat;v1
+120,80410,imaging;neuro
+121,81501,network;subgroups;community structure
+122,81501,socialnetwork;community;clustering
+123,81501,communities;book;scale free networks
+124,81501,community detection;social networks;clustering
+125,84176,similarity;networks;complexity
+126,84176,fractality;complex networks
+127,84176,self organisation;self similarity;complex;networks;structure
+128,84176,network;self similarity;complex
+129,84176,scale free networks;fractals
+130,84309,gametheory;copyrights;economics;law
+131,84309,journalscan;economics;ip
+132,84309,economics;property;digital;policy;information;rights;intellectual
+133,86487,genetics;microrna
+134,86487,microarray;mirna
+135,86487,microarray;ncrna;microrna
+136,86487,microrna microarray;microrna
+137,86487,microarray;micrornas;mirna target;mirna
+138,86487,target;microrna;expression;microarray
+139,86487,molecular signaling;regulatory cascades;molecular general;microarray
+140,86487,untranslated;regions;micrornas;organ;specificity;genetics;3
+141,86487,regulatory;rna;network
+142,86865,monkey;decision making;reward;neurophysiology
+143,86865,monkey;decision making;neuroeconomics;reward
+144,86865,decisionmaking;lip;eyemovements;monkey;reinforcementlearning;reward
+145,86865, francesca;decisionmaking;lip;neurophysiology;monkey
+146,86865,decision making;electrophysiology;ppc
+147,86865,choice;limitations;neurons;other;cortex;decision making
+148,86865,brain;decisionmaking;neuroscience
+149,86865,monkeys;decision;lip
+150,86865,quals;decision making
+151,90558,complex networks;scale free;network
+152,90558,graph theory;complexity;applied math;networks;adaptive systems
+153,90558,graph;networks;models
+154,90558,1999;network;emergence;growth;complex network;power law;preferantial attachment;scale free;model
+155,98486,haptic;visual;proprioceptive;optimal;integration;motor;sensorimotor;control
+156,98486,hci;haptic
+157,98486,2nd order stats;intermodal perception;statistical learning;probabilistic perception;context effects;haptics;vision;cue integration;ambiguity
+158,98486,estimation;cuecombination;psychophysics;mle
+159,98486,modeling;hap perception;cue integration;bayesian;vis perception;cogsci
+160,98486,vision;haptics;multimodal;integration;crossmodal
+161,98486,cog neuro;applied math;modeling and simulation;perception;sensory systems;multisensory integration
+162,98486,cue integration;vision;optimization;haptic;bayesian
+163,99033,popgen;snps
+164,99033,snp;selection;positive;human
+165,99033,human;genome wide;snp;population;haplotype
+166,100166,inference;a exam
+167,100166,cellular;networks
+168,100166,bayes;inference;dt;review
+169,100166,review;networks;bayesian;transcription;regulation
+170,100166,review;bio
+171,101973,learning;basalganglia;striatum;striatothalamocortical;reversal;dlpfc
+172,101973,learning;striatum;neurophysiology;monkey;prefrontal
+173,101973,learning;caudate;pfc;stimulusresponseassociation;rt;monkey;reversal
+174,101973,dynamics;learning;prefrontal cortex;striatum
+175,101973,prefrontal cortex;learning;monkey;striatum
+176,106364,system  primates;tech  motif analysis;system  mouse;tech  phylogenetic comparison
+177,106364,microrna;prediction;target
+178,106364,promotors;microrna targets
+179,106364,target;ncrna;microrna;3utr
+180,106364,transcription;regulation;mammals
+181,106364,regulation;promoters;genomics
+182,106364,regulatory;motif
+183,106364,transcription;regulation
+184,106364,regulation;motif;promoter
+185,112878,human;ultraconserved;uce;genome
+186,112878,genomics;dna
+187,112878,conservation;selection;evolution;msa
+188,112878,cne;humans;vertebrates
+189,112878,informatics;nat selection tests;modeling and simulation;whole genomic;evolutionary genomics;evolution
+190,112878,ultraconserved;human genome;mutation;selection
+191,112878,human;ultra conserved sequences;human genetics;human genome
+192,112878,genomics;evolutionary comparisons;multiple alignment
+193,112878,noncoding;mammals
+194,112878,bioinformatics;clustering;non coding;dna
+195,114199,sociology;economics
+196,114199,society;history
+197,114199,commons;science;diss prop;game theory;political science
+198,114199,macroeconomics;economics;politicalscience
+199,114199,sustainable development;human population;altruism;commons;classic;human behaviour;tenure
+200,114199,publicgood;imt550;gametheory;economics;environment;sociology;altruism
+201,114199,economics;tragedycommons;environment;socialscience
+202,114199,agents;rationality;institutions;5;sustainability;resourcemanagement
+203,118649,precursor;mirna;energy;free;structure;folding
+204,118649,bioinformatics;ncrna;microrna
+205,118649,rna;non coding;mirna precursor;mirna
+206,118649,secondary;bioinformatics;rna;structure;energy;mirna;free
+207,118727,rna;prediction;structure;bioinformatics;secondary
+208,118727,structures;general rna
+209,118727,structure;rna;prediction;secondary
+210,118727,secondary;structure;rna;fold
+211,118727,rna;bioinformatics
+212,118727,systems biology;informatics;machine learning;evolutionary proteomics
+213,118744,bioinformatics;structure;pseudoknots;secondary;rna;mfe
+214,118744,secondary;scfg;prediction;structure;rna
+215,118744,rna;scfg;secondary structure
+216,121661,reward;monkey;neurophysiology;dopamine
+217,121661,dopamine;reward;reinforcement learning
+218,121661,rpe;reward;dopamine
+219,121661,neuron;neuroeconomics;prediction;uncertainty;decisionmaking;reward
+220,121661,electrophysiology;reward
+221,121661,prediction error;decision making;reinforcement learning;dopamine;monkey;learning
+222,121661,decision making;learning;monkey;dopamine;reward;neuroeconomics;reinforcement;motivation
+223,126997,structure prediction;protein structure
+224,126997,protein;structure;analysis
+225,126997,protein folding;structural genomics;computational biology;evolution;protein structure
+226,126997,recognition;fold;protein;structure;prediction
+227,126997,structure prediction;casp;protein structure;pdb
+228,136657,onto;bib;nlp;bio;txtmining
+229,136657,review;bio;text mining;bib;bioinformatics;literature mining;pubmed mining;txtmining;onto;msc;nlp
+230,136657,review;text mining
+231,137111,non mendelian inheritance;genetics;mendelian inheritance;inheritance;evolution
+232,137111,rna;genome;epigenetic
+233,137111,a exam;evolution
+234,137111,non mendelian inheritance;arabidopsis
+235,137111,evolution;inheritance;genomic;dna
+236,141524,molbio;mesophysics
+237,141524,cell;noise;single;regulation;gene
+238,141524,molecular signaling;gene expression;molecular general;ecophysiology;adaptive systems;morphogenesis
+239,141524,expression;gene;noise
+240,141524,gene expr;single cell
+241,141524,noise;elowitz
+242,141524,fluctuations;noise;experiment;single cell;gene expression;stochasticity
+243,141840,gene expression;genome;genettic interactions
+244,141840,cluster;puces adn;stat;transcriptome
+245,141840,clustering;expression
+246,141840,microarray;cluster
+247,141840,clustering;microarray;method
+248,141840,genome;expression;clustering
+249,141840,clustering;visualization;expresssiondata
+250,142323,binding;structure
+251,142323,interaction;domain;protein;statistics
+252,142323,analysis;ppi;statistical;of;domains
+253,142323,ppi;bio
+254,142323,domains;statistics;protein;interaction
+255,142488,genevariation;networks
+256,142488,gene expression;stochasticity;experiment;gene networks;fluctuations;noise
+257,142488,expression;gene;stochastic
+258,142488,genecircuits;stochastic;expression;networks;genevariation;avano lab;syntheticbiology;gene;geneticnetworks;noise
+259,142488,gene expr;networks
+260,142488,noise;genecircuits;avano lab
+261,150261,rna;pseudoknots;folding
+262,150261,structure;rna;secondary structure;bioinformatics
+263,150261,rna secondary structure;pseudoknots;rna
+264,150261,structure;secondary;kinetics;folding;rna;bioinformatics
+265,150261,pseudoknot;secondary structure;rna
+266,155900,infants;false belief
+267,155900,theory of mind;infants;psychology;human;beliefs
+268,155900,infant;false belief;belief;psychology;theory of mind
+269,211497,language;syntax; d ;evolution
+270,211497,language evolution;language;modeling;linguistics;evolution
+271,211497,language;thesis;evolution
+272,211497,syntax;language;evolution
+273,211497,modeling;syntax;language evolution;nowak;math
+274,226992,kalimantan;indonesia;palm oil;pa effectiveness;deforestation;satellite;borneo;enso;great apes
+275,226992,borneo;luc;indonesia;forests;protected areas
+276,226992,enso;satellite;pa effectiveness;kalimantan;borneo;great apes;deforestation;indonesia;gunung palung
+277,227153,11;intro;te;cited
+278,227153,primates;genome
+279,227153,whole genome;sequence;human genome;genome
+280,227153,whole genome;sequencing
+281,227153,humans;genomics
+282,227153,classics;1st yr report
+283,227153,human;whole genome
+284,227153,project;official;human;genome
+285,227153,human;genomepaper;tez
+286,227174,yeast;hubs;ppi
+287,227174,interaction;protein
+288,227174,network;network motif;dynamic;p2p
+289,227174,proteins;book;scale free networks
+290,227174,ppi;network;modularity
+291,227174,party;date;interactions
+292,227174,bio;graph based analysis;ppi
+293,227174,network properties;network topology;interactions;protein protein
+294,231294,software;bayesian;refs snps;mrbayes;evolution;refs catalytic
+295,231294,likelihood;inference;software;bayesian;phylogeny
+296,238188,z paper strainer;software;assembly;bioinformatics
+297,238188,alignment;algorithm
+298,238188,bioinformatics;blast
+299,238188,algorithm;alignment
+300,238188,alignment;sequence;bioinformatics
+301,238188,algorithm;alignment
+302,238188,blast;sequence jockey
+303,238188,algorithms;classic
+304,238188,sequence alignment;1st yr report;classics
+305,238188,blast;sequence;search
+306,238188,thesis;nsf2007
+307,239528,normalization;robust;average;multichip;rma
+308,239528,dna;normalization;method;microarray;rma
+309,239528,gene expression;rma;microarray
+310,239528,transcriptome;stat;puces adn;genomique
+311,239528,expression;normalization;analysis;data;gene;rma;microarray
+312,239569,e science;grid;cyberinfrastructure
+313,239569,foster;distributed;parallel;hpc;computing;computers;grid;argonne;globusproject;globus
+314,239581,molecular motors;protein dynamics;myosin;protein structure;nma;kinesin
+315,239581,flexible protein;nma;kinesin;docking
+316,239581,kinesin;molecular motors;protein structure;myosin;protein dynamics;nma
+317,239581,computation;motor;biology;simulation;myosin;kinesin
+318,241030,microarray;statistics;fdr
+319,241030,gene;comparison;multiple;expression;microarray;fdr
+320,241030,stat;genomique
+321,241030,alternative;sequence;humans;array;genome;sam;linkage;regulation;oligonucleotide;exons;genetic;analysis;sites;statistics;splicing;animals;transcription;techniques;genetics;expression;binding;gene;algorithms
+322,261639,reinforcement learning;classical conditioning;rat;neurophysiology;dopamine
+323,261639,rat;eligibilitytrace;td model;dopamine;reinforcementlearning
+324,261639,eligibility trace;dopamine cells;reinforcement learning
+325,261639,reinforcement;conditioning;dopamine;learning
+326,265789,chomsky;language evolution
+327,265789,genetics;bcs501;evolution;language;week2
+328,265789,linguistics;evolution
+329,265789,evolang;recursion
+330,265789,language;gradu;animal communication;language evolution;language complexity
+331,265789,cognition;linguistics;development;evolution;brain;language acquisition;learning;language
+332,265789,nonhuman;anlab;language evolution;language;ur bcs 501
+333,265789,evolution;development;speech;brain;concepts;monkey;learning;knowledge;language;words
+334,272363,comps;wendy;all
+335,272363,text mining;review
+336,272363,survey;text mining
+337,272363,electronic;knowledgemanagement;information
+338,302050,similarity;modularity;structural;hierarhical;clustering
+339,302050,network;metabolic;graphclustering
+340,302050,network;metabolic;hierarchical;modularity
+341,302050,tom;networks;bioinformatics
+342,302050,net paper;networks
+343,302050,cluster;hierarchy;network;2002;scaling law;scale free
+344,302050,scalinglaw;hierarchy;network;cluster;eni;scalefree;modularity;graphs;complexity;graphclustering
+345,302050,network;module
+346,303213,citeulike;connotea;society;social bookmarking;nature publishing group;social software
+347,303213,nature publishing group;connotea;citeulike;social software
+348,303213,cannotea;citeulike
+349,303213,citeulike;social bookmarking
+350,303889,empirical;social network
+351,303889,lecture 2;social search
+352,303889,small world;search;empirical;social networks
+353,303889,sociology;small;networks;social;worlds
+354,303889,small world;social science;networks;anth315;milgram
+355,303889,social networks;email;search;networks
+356,307461,complex;network;biological;motif
+357,307461,e;genome;network;organization;coli;gene;motif
+358,307461,ecoli;regulation;networks
+359,307461,dense overlapping regulon;network;feedforward;e coli;systems approach;transcription;network motifs
+360,307461,motif;network
+361,307461,motifs;networks
+362,307461,motifs;networks
+363,309778,network;inflammation
+364,309778,network;analyse;puce adn;inflammation
+365,309778,proteomics;interactions;protein protein
+366,309778,disease;networks;systems biology
+367,309778,human;inflammation;immunology;expression
+368,312119,learning;linguistics;psycholinguistics;psychology
+369,312119,statistical learning;language;infants;rules;language acquisition
+370,312119,statistical learning;cross situational;artificial grammars
+371,312119,infants;headturn;statisticallearning;rules;models
+372,312119,statistical;learning;infant
+373,312124,learning;psycholinguistics;cogsci
+374,312124,statistical learning;language acquisition;infants;language
+375,312124,infant;statistical;learning
+376,312124,learning;statistics;language acquisition;artificial grammar;child;development
+377,312124,infant speech perception;lexical development;word learning
+378,312124,syllables;statisticallearning;infants;transitionalprobabilities
+379,312476,machine learning;grammar;computational linguistics;induction
+380,312476,ml;language;compling;compsci
+381,312476,unsupervised;nlp;machine learning
+382,312476,unsupervised learning;nlp
+383,312476,statistics;language acquistion;artificial intelligence;model
+384,312476,language;algorithm;ai;learning;linguistics
+385,312476,language acquisition;3r;grammar;3i;grammar context free;rule;algorithm adios;motif extraction;learning unsupervised;search path
+386,312476,language acquisition;constraints
+387,312476,syntactic acquisition;machine learning;computational linguistics;models
+388,312476,language acquisition;cat computer sciences;machine learning;protein classification;grammar induction;computational linguistics
+389,312476,language;language acquisition;computational linguistics;machine learning;learning;nlp;linguistics;unsupervised learning;statistics;grammar
+390,312476,bioinformatics;nlp
+391,312476,algorithms;computation;mathematics;networks;graphs;languages
+392,329170,fold;protein;evolutionary
+393,329170,software;protein folding;protein structure;bioinformatics
+394,329170,sca;major proposal
+395,329170,bioinf methods;protein evolution;protein sequence;correlated mutations;protein design;protein structure
+396,329170,evolution;folding;coevolution
+397,329170,popcorn;evolution;protein evolution
+398,329170,protein structure;statistical coupling analysis;correlated mutations;protein evolution;protein sequence
+399,329170,protein folding;protein function
+400,332150,animal model;gene expression;development;evolution;morphogenesis
+401,332150,genome;transcriptome
+402,332150,annotation;human;expression
+403,332150,flcdna;annotation;transcriptome
+404,332150,rna;tiling;noncoding;mouse;genome
+405,332150,fantom;genome
+406,332150,mammalian;transcription
+407,332173,energetic;evolutionarily;conserved
+408,332173,structure;mutual;protein;information;3d
+409,332173,suboptimal alignment;sequence alignment
+410,332173,biophysics;structure prediction;bioinformatics;statistical potentials;sequence alignment
+411,332173,protein;evolution;major proposal;alignment
+412,332173,function;mutagenesis
+413,332173,contact map;active site;evolution;function prediction
+414,332173,bioinformatics;allostery;cooperativity
+415,333353,systems biology;networks;network motif
+416,333353,05matheco19;cat physics;network
+417,333353,network;printed;evolution
+418,333353,network structure;model
+419,333353,theory;systems biology;gene networks;evolution
+420,334264,interactome;proteome
+421,334264,proteininteraction;human;protein
+422,334264,interaction;protein;networks;y2h;human
+423,334264,interactions;proteins;physical;human
+424,334264,protein protein;interactions
+425,334264,interaction;protein;network
+426,341252,bayesian;rotamers
+427,341252,side chain;protein;packing
+428,341252,protein structure;structure prediction
+429,341252,rotamers;protein;sidechains;bayesian
+430,353537,attention;cognitive control;behavioral control;dopamine;neuroscience
+431,353537,dopamine;reinforcementlearning;review;td model;reward
+432,353537,neuroscience;network;learning
+433,353537,reinforcement learning;behavior;dopamine
+434,353537,action selection;reinforcement learning;review;dopamine
+435,353538,review;cortex;network;computational
+436,353538,network;brain;learning
+437,353538,computational;review;neuronal;network;neuroscience;cortex
+438,353538,dendrites;spines;plasticity;capacity;learning
+439,354027,binding;bioinformatics;protein;computational;prediction;protein protein;structure;interaction;networks;biology
+440,354027,comparative modeling;protein structure;protein interaction
+441,354027,embl;binding;structure;networks;phd
+442,354027,protein structure;protein protein
+443,354027,bio;ppi
+444,354027,interface properties;ppi review;modelling interactions
+445,355573,memory;basal ganglia;explore exploit;reinforcement learning;striatum;prefrontal cortex
+446,355573,striatum;rats;habit;learning
+447,355573,prefrontal cortex;basal ganglia;reinforcement learning;striatum
+448,355573,neuron;encoding recoding;memory
+449,355574,evolution;positive selection
+450,355574,evolution;human
+451,355574,msa;evolution;selection;proteins;acceleration
+452,355574,evolution;proteins
+453,355574,coding;selection;genome evolution;evolution;mutation rate
+454,355574,mendelian;evolution;positiveselection;snp
+455,355574,population genetics;test for selection;human;gene
+456,355574,evolution;genes
+457,355574,popgen;human;positive;selection
+458,363614,eni;complexity;networks;biological;social
+459,363614,datamining;graphs;network
+460,363614,motif;network;2004
+461,363614,motifs;networks
+462,363614,informatics;complexity;modeling and simulation;networks
+463,363614,math;social;web graph
+464,363614,biological;network
+465,363614,graph characterization;motifs
+466,375823,economics;sustainability;deforestation;nutrition;energy;decisions
+467,375823,policy;carbon;co2;energy;stabilization;climate;economics;mitigation
+468,375823,carbon;redd;mitigation;biofuel;wedges;climate change
+469,400238,yigal;jessica;gestures;imitation
+470,400238,biological;mirror;imitation;mirror neuron;learning;perception
+471,400238,imitation;tms;action;brain;mirror neuron
+472,400238,perception;imagery;motorlearning;imitation
+473,406519,chemotaxis;general model;noise
+474,406519,evolution;biological inspired modeling
+475,406519,bacterial;ch3;network;refs ox;signalling
+476,406519,network;noise;signaling;gene order;design principles
+477,406519,expression;noise;network
+478,406519,robustness;modeling;systems biology;control;evolution;network motifs
+479,406519,robustness;network;signaling
+480,406519,network;regulation;bacteria
+481,407273,multiple data sources;bio
+482,407273,systems biology;integration;bioinformatics
+483,407273,tools;clustering;methods;statistics
+484,407273,biology;systems;integration
+485,407273,biology;system;review;integrative
+486,407273,statistics;s;data integration;systems biology;statistical power
+487,407273,sysbio;systemsbiology;biology;dataintegration
+488,407273,omnibus;statistics;combination
+489,415502,alignment;databases;algorithms;methods;programming;software;data mining
+490,415502,bioperl;perl;bioinformatics
+491,415502,bioinformatics;toolkit;software
+492,415502,parser;blast;bioperl
+493,415502,x bioinf software;software;genetics
+494,415502,formats;informatics
+495,415502,biocorba;perl;buggotea;blast;emboss;bioperl;clustalw
+496,415502,bioinformatics;algorithm;software;2002
+497,420465,constraint;conserved
+498,420465,msa;phylogenetics;evolution;selection;conservation
+499,420465,yeast;evolution;worm;conserved;insect
+500,420465,selection;evolution;genome;conserved
+501,420465,structure;secondary;rna;prediction;noncoding;conserved
+502,420465,flies;mammals;noncoding;worms
+503,420465,phastcons;mutation rate;genome evolution;cns;comparative genomics;conservation;evolution
+504,420465,alignment;tez;conservation
+505,420465,cne;comparative;worms;non coding;vertebrates;phastcons;yeast;insects
+506,422950,publishing;xml;web
+507,422950,all;editorial;data sharing;culture;trends
+508,422950,xml;scholarly communication;publishing;web;scientific;research;copyright;collaboration;creative commons;data
+509,422950,data;collaboration;research;publishing
+510,430079,review;visual
+511,430079,vision;we know nothing;v1;neuroconcept;neurophysiology;model;lgn;retina
+512,430079,heather;vision;visual memory
+513,430079,vision;neurophysiology;review
+514,430079,coding;model;strf;visual
+515,437770,secondary;prediction;structure;rna;rnasoft
+516,437770,codeword design;rna;dna
+517,437770,secondary;sequence;rna;prediction
+518,437770,software;bioinformatics;rna;secondary structure
+519,438129,internet;information;science;research;comunication
+520,438129,information;internet;comunication;wikipedia;article;wiki;comparison;media;incentives;collaborative communities;credibility;science;informatica;research;nature;quality
+521,438129,media;credibility
+522,444860,rats;vertebrates;sequence;genetics;rodents;genome;phylogenomics;mammals;data mining;animals
+523,444860,rodents;evolution;msa;genome
+524,444860,genome;rat genome
+525,444860,rat;genome;sequence;variation
+526,444860,genome;whole genome;sequence;rat;comparative genomics
+527,444860,genome paper;rat;comparative genomics
+528,446839,theory;images;blogs;hypermedia;newmedia
+529,446839,blog;theory;newmedia;image;ethnography
+530,446839,photography;media;photos;blogs;culture
+531,454555,te;bioinformatics;rpt
+532,454555,recon;binfo;repeats;tools
+533,454555,multiplealign;recon;cited;alignment;clustering;te;213
+534,454555,rpt;bioinformatics;repeats
+535,459365,empirical;dynamic;social;network
+536,459365,social networks;empirical;dynamics
+537,459365,math;stochastic;graph;topology;complex
+538,459365,evolving;social;network
+539,459365,email;network;time;prediction
+540,459365,socialsimulation;socialnetwork;modeling;evolutionary;complexnetwork
+541,459365,socialnetworks;dynamism;evolution
+542,459365,dynamic network;social networks;dynamic;social analysis;dynamic network analysis
+543,460153,gene;genomics;evolutionary;structure;drift;introns
+544,460153,structure;eukaryotic;gene
+545,460153,neutral;hypothesis;genome
+546,460153,gene;structure;evolutionary;eukaryotic
+547,460153,gene structure;evolution eukaryote
+548,460153,evolution;euk
+549,460153,evolution;genetics
+550,460153,introns;gene;environment;molecular;evolution;mutation
+551,460153,evolution;genome
+552,465989,amygdala;ambiguity;uncertainty
+553,465989,neuroscience;risk;uncertainty;decision making;neuroeconomics
+554,465989,uncertainty;human;risk;fmri
+555,465989,reward;decisionmaking;uncertainty
+556,465989,neural;decision making
+557,465989,neuroscience;decision making;risk;neuroeconomics;amygdala;human processing;uncertainty;decsion making;ambiguity
+558,466050,expression;hybrid;trans;cis;evolution
+559,466050,evolution;evo computation;systems biology;homeotic theory;genotype to phenotype;evo devo;evolvability
+560,466050,network;regulatory;transcriptional
+561,466050,regulatory;expression
+562,466050,cis regulatory;flies
+563,466050,regulatory polymorphism;regulatory evolution;drosophila;expression divergence;cis vs trans;hybrid;expression polymorphism
+564,466050,system  drosophilidae;key  gene expression;key  molecular evolution;tech  phylogenetic comparison
+565,466050,hybrids;drosophila;cis regulation;transcription;trans regulation;evolution;gene regulation
+566,466068,tfbs;regulation;over representation;promoter
+567,466068,systems biology;whole genomic;evo devo;evo computation;regulatory cascades;genome structure;gene expression;evolutionary genomics
+568,466068,network;yeast;transcription
+569,466068,yeast;block;gene regulation;experimental;networks
+570,466068,tfs;network
+571,466068,comparative;genomic;yeast
+572,466068,transcription;cis regulation;network;regulatory;chip2
+573,466068,cis regulatory elements;chip chip;yeast
+574,466068,transcription;regulatory
+575,466068,cis regulatory;fungi
+576,466068,transcription;chip chip;yeast
+577,477450,physical;complex;interactions;proteins
+578,477450,network;p2p;reconstruction
+579,477450,ms;statistics;datamining
+580,477450,yeast;ip;proteome;tap
+581,477450,proteomics;molecular complexes;experimental
+582,477450,yeast;proteomics;modularity;omics
+583,477450,genettic interactions;p2p
+584,477450,structure;yeast;phd;binding;embl
+585,477450,high throughput dataset;ppi;bio
+586,477450,proteome;network;ppi
+587,477450,high throughput;proteome;protein;large scale;yeast;cell;bio informatics;modularity;machinery;complexes;proteomics
+588,478707,yeast;protein;coexpression
+589,478707,scale free networks;proteins;book
+590,478707,protein protein;essentiality;yeast;network
+591,478707,protein protein;interactions
+592,478707,networks;interaction;protein
+593,478707,network;lethality;protein;centrality
+594,482101,microarray;dna binding;hairpin
+595,482101,binding;selex;transcription;factor
+596,482101,transcription;array;selex;factor;binding
+597,482101,dna binding;molecular biology techniques;microarray;transcription factors
+598,499796,cmc;digital divide;identity;social interaction;online behavior;social networks;virtual;community;social capital;internet surveys;internet
+599,499796,online behavior;internet;social networks;digital divide;cmc;social interaction;online communities
+600,504894,classification;breast cancer
+601,504894,signature;cancer;microarray
+602,504894,breast;microarray;cancer;survival
+603,504894,classification;breast;cancer;microarray;survival
+604,504894,expression;breast;microarray;profile;cancer;veer
+605,504894,cancer;disease;predictor
+606,506455,networks;transcription
+607,506455,expression;noise
+608,506455,expression regulation;genetic circuits;synthetic biology
+609,506455,regulatory cascades;gene expression;morphogenesis;development;evolution;molecular signaling
+610,506455,development;evolution;regulation;molecular signaling;noise;networks;regulatory cascades;morphogenesis;expression;gene expression;gene expression;gene;collins lab;transcriptional regulation;transcription;collins
+611,506455,expression;stochastic
+612,506455,noise;gene expression;transcriptional regulation
+613,506455,modelling;synthetic biology
+614,506455,regulation;gene
+615,506468,reward;neuroscience;monkeys;punishment;reinforcement learning;reinforcement;amygdala
+616,506468,reward;amygdala;aversive
+617,506468,reward;neurophysiology;monkey;learning;amygdala
+618,506468,amygdala;aversive;reward;reinforcement;monkey;punishment;airpuff;reinforcementlearning
+619,507525,bayesian;reasoning;causality;rat
+620,507525,cognition;rat;causality
+621,507525,context;apfc;motorlearning
+622,507525,causation;animals;causal reasoning;rats;reasoning
+623,507926,judgment;deliberation;dijksterhuis;utt;choice
+624,507926,human;decisionmaking;implicit
+625,507926,decision making; ;theory of unconscious thought;attention;effect deliberation without attention;choice;deliberation;thought;consciousness
+626,507926,decisionmaking;decision
+627,509425,transpiration;ecosystem response;co2;river
+628,509425,runoff;anthropogenic;hydrology;co2;evapotranspiration;rivers;climate change
+629,516580,artefacts;hobbit;flores;indonesia;archaeology;dating
+630,516580,archaeology;dating;artefacts;homo;indonesia;hobbit;flores
+631,523878,microrna;arabidopsis;transcriptome
+632,523878,rna;small;arabidopsis
+633,523878,printed;ncrna;transcriptome;unread
+634,523878,ncrna;rna;genome
+635,525366,gsea;go
+636,525366,gene set analysis;bioinformatics
+637,525366,human;data mining;microarray;pathway;chip
+638,525366,jim;comps;all
+639,525366,expression;analysis;method
+640,525366,expression;algorithm;functional annotation;gene set analysis;microarray
+641,525366,expression;gsea;gene;microarray
+642,525366,enrichment;statistics;pathway analysis;genomics
+643,528160,human;expression;mouse;transcriptome;gene
+644,528160,systems biology;genomics
+645,528160,expression;mammals
+646,528160,microarray;atlas
+647,528160,expression;microarray;gene;transcriptome;compendium
+648,528160,transcriptome;tissue specific
+649,540889,genomics;genetics;evolution;gene;regulation;homo sapiens
+650,540889,gene expression;evolution;human transcription factor
+651,540889,evolution;gene regulation;primates
+652,540889,evolution;factor;transcription
+653,540889,dna;expression;factor;microarray;transcription
+654,540889,primates;arrays;expression;acceleration;evolution;msa
+655,540889,expression;evolution;primates
+656,540889,expression profiling;primates;human evolution
+657,540889,pan;homo;evolution;expression;tf
+658,546157,neuroscience;morality;fmri;judgment;moral
+659,546157,moral reasoning;moral;ethics;neuroscience;emotion
+660,546157,affect;neuroscience;cognition;emotion
+661,546157,ethics;emotion;thesis
+662,549806,es;evolution;domain;continuous;ea
+663,549806,parameter;optimization;pathway
+664,549806,paramestim;identification;pathways;sysbio
+665,549806,parameter;sysbio;pathway
+666,549806,metaheuristic;evolutionary computation;stochastic;biomedical;comparison;parameter estimation;evolution strategies
+667,553494,singlecell;moleculedetection;microfluidics
+668,553494,noise;gene expression
+669,553494,protein;noise;methods;expression;detection
+670,553494,gene expression;experiment;noise;fluctuations;single molecule;stochasticity;bursting
+671,553494,protein;expression;stochastic
+672,553494,expression;stochastic;gene
+673,553494,noise;expression
+674,553494,stochasticity;protein
+675,553497,duplication;evolution;yeast;gene;rapid;speciation;loss
+676,553497,speciation;yeast
+677,553497,genome duplication;speciation;polyploidy;yeast
+678,559064,evolution;gene;development;gene regulation;network;pre cambrian
+679,559064,plan;gene;network;regulation;expression;evolution;body
+680,559064,gene expression;gene networks;review;network motifs
+681,559064,grn;network;trn
+682,559064,evolution;network;developement;genetics;phylogeny
+683,559064,evolution;network;development;phylogeny;gene
+684,559064,transcription;gene;network;body;regulation;plan;review;animal
+685,559064,evolution;regulatory network;grn
+686,560813,protein;interaction
+687,560813,interaction;tap;ht;yeast;complex
+688,560813,network;pin;ppi
+689,560813,genettic interactions;p2p
+690,560813,high throughput dataset;ppi;bio
+691,560813,protein;yeast;interaction
+692,560813,proteome;yeast;ip;tap
+693,560813,network;evolution;reconstruction;p2p;resource
+694,560813,networks;binding;structure;yeast
+695,571538,detection;polymorhpism;snp;arrays
+696,571538,arrays;snps
+697,571538,snp;cis trans;microarray
+698,602903,recursion;songbird;syntax;language evolution;commentary;bird
+699,602903,songbirds;recursion;birds;language
+700,602903,language;recursion;acquisition;birds;animal
+701,609199,language;cognition;sapir whorf hypothesis;number;sapir whorf;cpprosem2;numbers;counting
+702,609199,sapir whorf;counting;numbers;cognition;language;cpprosem2
+703,609199,number;sapir whorf hypothesis
+704,612608,secondary;bayesian;structure;rna;bioinformatics;partition;function
+705,612608,bioinformatics;secondary structure;rna;statistics
+706,612608,structure;review;rna
+707,612608,rna secondary structure;review
+708,613191,yeast;regulation;metabolism
+709,613191,network;metabolic;model;methodspaper;regulation;transcription;yeast
+710,613191,transcription;reconstruction;regulatory;network motif;network;metabolic;chip2
+711,613191,gene regulation;palsson;regulatory networks;yeast;fba
+712,613191,integrative;system biology
+713,613191,metabolite;network;yeast
+714,620656,yeast;transcription;expression;association
+715,620656,qtl;expression;yeast;transcription;regulation
+716,620656,qtl;regulatory network;yeast;eqtl
+717,620656,key  gene expression;tech  qtl;system  yeast;tech  population genetics;tech  microarray
+718,620656,yeast;cis trans
+719,620656,tacqa;expression;qtl;yeast
+720,620656,eqtl;yeast
+721,622483,stochastic;expression;gene
+722,622483,noise;theory;fluctuations;gene expression
+723,622483,stochastic;gene;expression;model
+724,656280,episodic memory;planning;general
+725,656280,tool;planning;apes;future
+726,656280,cognition;primate
+727,656280,cognition;tool;apes
+728,656280,future;planning;tool;primate;tool use;call;apes;cognition
+729,668899,social networks;evolution;graphs
+730,668899,network dynamics;collective action;nature;cooperation;social networks
+731,668899,tragedycommons;culture;cooperation;society
+732,668899,cooperation;evolution;network
+733,668899,networks;evolution;model;game
+734,668899,graph;links;network;evolution
+735,668899,endorsements;printed;networks;mathematics;graphs
+736,668933,rna;genetics;transcription;dna;ncrna
+737,668933,rna;review;genome
+738,668933,genetics;dna
+739,668933,genetics;gene
+740,668933,rna;views
+741,668933,reviews;molecular;genomics
+742,698675,conserved;evolution;human;selection;annotation;constraint;prediction;alignment;rate;transcription;turnover;mammal
+743,698675,tfbs;turnover;alignment;selection;annotation;footprinting;evolution;constraint;conserved;transcription;mammal;human;prediction;mammals;rate
+744,698675,transcription;mammals;footprinting;tfbs
+745,702349,ofc;fmri;neuroscience;exploration exploitation;reward;learning;cortex;ips;neuroeconomics
+746,702349,fmri;decision making;exploration
+747,702349,pfc;quals;decision making;basal ganglia
+748,702349,cortex;reinforcement learning;decision;explore exploit
+749,702349,reinforcement learning;exploration;brain
+750,738207,physicians;co citations;authority;quality;index;connections;analysis;webometrics;webmetrics;influence;co citation;citations;researchers;central;contribution;experts;discourse analysis;expert;discourse;author influence;graphing;discourse analysis;bibliography;pub;publications;biomedical;metrics;kol;pubs;authors;paper;kols;medicine;indices;highly cited;impact;medical;mapping;bibliometrics;impact factor;impact factor;scientometrics;webliometrics;literature;citation analysis;author influence;article;significance;co authorship;ranking;articles;performance;sna;social network analysis;social;leaders;webliography;citationanalysis;leader;author impact;centrality;influential;author impact;key opinion leader;citation;thought leader;author;social network analysis;keyopinionleader;citation analysis;thought leader;authorities;socialnetworks
+751,738207,citation context;nlp
+752,738207,rhetoric;citation analysis;discourse analysis
+753,740681,phd;folksonomy;tagging;folksonomies
+754,740681,golder;citation;tagging;must;huberman;problems
+755,740681,tagging;usage
+756,740681,social navigation;folksonomies;social informatics;collaborative;hcm2006;folksonomy;collaboration;metadata;tagging;classification;social;social networks;phd
+757,740681,tagging;classification;folksonomies;bookmarking;social;patterns
+758,740681,communities;online;collaboration;tagging
+759,740681,social software;folksonomy;tagging;relevance;web epistemology
+760,740681,social networks;metadata;tagging;social informatics;folksonomies;bookmarking
+761,740681,tagging;folksonomy;collaboration;collaborative
+762,740681,urn;model;jis;behavior;tagging;modeling;characterization;user
+763,740681,collective knowledge;tagging;collaborative;km;folksonomy;knowledge
+764,740681,tagging;delicious;comportamento;classificazione cooperativa;utente;folksonomy
+765,740681,classification;social networks;social informatics;social navigation
+766,740681,hcm2006;social;metadata
+767,771131,social;exchange;choice;cingulate cortex;contribution
+768,771131,choice;cingulate cortex;contribution;exchange;social
+769,771144,rna;sirna;rnai
+770,771144,rna;review
+771,771144,ncrna;review;pirna
+772,771144,noncoding rna;gene regulation
+773,771144,pirna;microrna
+774,771144,general rna;reviews;mirna
+775,771168,storage;food;strategic;animal
+776,771168,theory of mind;scrub jay;bird
+777,771168,storage;observational learning;theory of mind;food;strategy;srcub jays;animal;strategic
+778,778023,deep;belief;inference;network;nets;neural
+779,778023,pca;neural net;r
+780,778023,pca;neural networks;statistics;algorithms;r
+781,778023,machinelearning;deepbeliefnets;dimensionalityreduction;unsupervised;neuralnetwork;autoencoder
+782,778023,neural;data;network;neuralnetwork
+783,778023,dimensionality reduction;machine learning;autoencoder;neural network
+784,778023,neural networks;cs;dimensionality reduction;machine learning
+785,778023,connectionist;statistics;modeling
+786,802975,learning;cortex;reinforcement;reward;basal ganglia
+787,802975,dorsal;ventral;reward;monkey;pfc
+788,802975,prefrontal cortex;connectivity;reward;striatum
+789,802975,basalganglia;ventralstriatum;striatum;neuroanatomy;monkey
+790,802975,ventral striatum; pg;reward;monkey;neuroanatomy
+791,833421,network;topology;cancer
+792,833421,networks;systems biology;scale free;cancer;bioinformatics;protein interactions;protein networks;interactome
+793,833421,bioinformatics;protein interactions
+794,833421,cancer;networks
+795,833421,systems biology;snps;protein networks;scale free
+796,833421,cancer;interactome
+797,833421,statistics;human;citesme;interaction;network
+798,880918,phenotype;networks;expression
+799,880918,networks;expression;association;transcription
+800,880918,microarray;metastudy
+801,880918,chemical;activity profile;microarray;bioassay;drug
+802,880918,signature;expression;map;connectivity;functional annotation
+803,880918,genomics;chemical
+804,880918,toxicogenomics;data;analysis;expression
+805,880918,disease;bioinformatics;genome;drug
+806,880918,disease;gene expression;networks
+807,880918,network;small molecule;tfs;bioinformatics
+808,880918,geneexpression;pharmacology
+809,904109,microarray;review;expression
+810,904109,expression profiling;gene expression
+811,904109,microarray;qtl
+812,904109,eisen journal club;eqtl;qtl;in depth;variation;gene expression;association mapping
+813,904109,of;genetics;review;gene;expression
+814,904109,genetics;expression;review;evolution
+815,937059,stem;cell;network;ppi
+816,937059,stem;cell;interaction;protein
+817,937059,embryonic;biology;transcriptome;stem cells
+818,937059,stem cells;systems biology;protein interactions
+819,937059,molbio;mesophysics;stem
+820,937059,cell;network;stem
+821,957831,misc;haplotypes;nssnps;evolution
+822,957831,copy number;genomics
+823,957831,system  primates;key  genome;key  molecular evolution
+824,957831,cnv;human;snp
+825,957831,angela presented;eisen journal club;round robin
+826,957831,snp;map;human;disease
+827,957831,cnv;microarray
+828,957831,hapmap;cnv;genomics
+829,1016800,evolution;networks;structural biology
+830,1016800,protein networks;quaternary structure;ppi review;ppi evolution
+831,1016800,binding;evolution;hub;proteins;interactions
+832,1016800,interactions;sin;structure
+833,1016800,binding;evolution;phd;networks;structure
+834,1016800,evolution;protein structure;networks
+835,1016800,networks;duplication
+836,1036681,dna;assembly;fragmentation;molecular;evolution
+837,1036681,shuffling;proteins;mutagenesis;dna;assembly;molecular;evolution;fragmentation
+838,1067802,ecology;modelling;artificial intelligence;localization;machine learning;bio inspired;simulation;robot;derivative free;optimization;path
+839,1067802,search;bio inspired;infotaxis;optimization;algorithm
+840,1067802,olfaction;information
+841,1067802,search;simulation;algorithm
+842,1097231,cnv;expression;genomics
+843,1097231,association;expression;snps
+844,1097231,variation;cis regulatory;mammals
+845,1097231,round robin;association mapping;gene expression;cnv;eisen journal club;rich presented
+846,1097231,hapmap;copy number;snp;cnv
+847,1097231,gwas;eqtl
+848,1097231,genome variation;evolutionary genomics;gene expression;genotype to phenotype;evolution;copy number;evo devo
+849,1116998,gene;network;inference;expression
+850,1116998,identification;sysbio;review;pathways
+851,1116998,prediction;gene;network
+852,1116998,grn;network inference
+853,1116998,bioinformatics;network
+854,1116998,systems biology;review;network
+855,1116998,network inference;tutorial
+856,1133633,clustering;rna;structure alignment;secondary structure
+857,1133633,alignment;rna;structure;secondary structure;secondary
+858,1133633,clustering;structure;rna;alignment
+859,1137519,internet;blog;web;20;podcast
+860,1137519,internet;knowledgemanagement
+861,1137519,web20;internet;ehealth;health;publichealth
+862,1144477,anatomy;cortical thickness;brain;connectivity;imaging;mri;small world
+863,1144477,connectivity;network;cortex
+864,1144477,neuroanatomy;cortex;imaging;network;topology
+865,1159615,network;function;protein;prediction
+866,1159615,protein function;networks;systems biology;pathways
+867,1159615,network;signal transduction;motif
+868,1159615,network;graph theory;review
+869,1159615,prediction;network;yeast
+870,1159615,prediction;network;protein
+871,1159615,network;function
+872,1159615,protein;review;prediction;function;network;ppi
+873,1197981,yigal;kristina;attention;joo seuk
+874,1197981,simultanous recording;pfc;parietal cortex
+875,1197981,lip;prefrontal;attention;monkey;fef;neurophysiology
+876,1197981,parietal;prefrontal cortex;attention
+877,1197981,monkey;attention;top down;bottom up;visual search;visual pop out
+878,1197981,neurophysiology;monkey;prefrontal;attention;fef;lip
+879,1202726,microbial ecology;marine;biogeography
+880,1202726,emergent;ecosystem;biology;biogeography;phytoplankton;ocean;model;gcm;community
+881,1202726,41061108;biogegraphy;ocean;models;ecosystem;microbial;communites
+882,1202726,biology;model;ocean;climate;ecology;phytoplankton
+883,1206611,thesis;eur
+884,1206611,social;network;evolution
+885,1206611,community;2007;k clique;auto correlation;social network;social;evolution;complex network;dynamics
+886,1206611,community;organizations;collaboration;persistence;practices
+887,1206611,community;tododiss;evolution;social;graph
+888,1206611,social networks;social networks;social analysis
+889,1206611,community;network
+890,1206611,dynamics;complex;algorithms;math;biology
+891,1206611,community;networks;evolution;swarm
+892,1206611,sociophysics;social dynamics;quantitative;quantifying;evolution;cultural evolution
+893,1206611,tagging;sociology;taggingpres;socialnetworking;networktheory
+894,1206611,scientific;cell;phone;dynamics;collaboration;percolation;networks;social
+895,1206611,evolution;social;network
+896,1206611,evolution;sociology;quantifying;cell;complexity;auto correlation;community;collaboration;dynamics;complex network;07;k clique;social network;percolation;network;socialnetworking;networks dynamic;networks;phone;social networks;cooperation;networktheory;quantitative;social dynamics;social networks;social;social analysis;taggingpres;scientific;generations;tagging;swarm;sociophysics;social network;cultural evolution;group;social structure
+897,1226851,networks;bioinformatics;computation;statistics
+898,1226851,math;bayesian;review
+899,1226851,review;statistics;systemsbiology;bayesian
+900,1226851,bayesian;bioinformatics
+901,1226851,bayesian;sysbio
+902,1226851,statistics;bioinformatics;review
+903,1226851,bayesian statistics;computational biology;bioinformatics;systems biology
+904,1226851,algorithm;2007;bioinformatics;bayesian
+905,1272477,drought;ecology;vegetation;climate;precipitation;tropics
+906,1272477,climate;vegetation;tropical;drought;ecology;precipitation
+907,1272533,scholary;confidence;review;reference;statistics
+908,1272533,analysis;biology;statistics;visualizations
+909,1272533,statistics;analysis
+910,1272533,statistics;biology
+911,1272533,statistics;graphs
+912,1272533,analysis;statistics
+913,1272533,statistics;review
+914,1272533,errorbars;statistics;bob;visionlab
+915,1272533,validation;classification;statistics;classic;microarray;gene regulation
+916,1272533,bars;error;biology;from kell
+917,1272533,methods;statistics
+918,1307464,transcription;network
+919,1307464,network;review
+920,1307464,network;tf;motif
+921,1307464,network;motif;review
+922,1307464,motif;network;network motif
+923,1307464,networks;motifs
+924,1307464,systems biology;synthetic biology;networks
+925,1307464,review;network motifs;gene regulation;gene networks
+926,1320727,systems biology;network;disease;topology
+927,1320727,interactions;genomics;bioinformatics
+928,1320727,networks;disease;reference
+929,1320727,genotype phenotype;gene expression
+930,1320727,evolvability;gene expression;gene gene;whole genomic;genotype to phenotype;genome variation;diseaseomics;evolutionary genomics;evolutionary proteomics;evolution
+931,1320727,human;disease;bioinformatics;global;health;systems
+932,1320727,statistics;genomics;network;analysis;bioinformatics;disease;integration;methodspaper;systems
+933,1320727,protein;interaction;disease;networks
+934,1320727,disease;network
+935,1322799,discounting;temporal;reward;human
+936,1322799,neuroeconomics;human;decision making;choicebehavior;incentives;fmri;discounting;economics;temporal discounting
+937,1322799,decisionmaking;psych;incentives;social;temporaldiscounting;neuroscience;economics
+938,1322799,discounting;choicebehavior;neuroeconomics;fmri;neuroimaging;human
+939,1322886,carbon;emissions;regional;ipcc;co2;economics;climate;projections;sres
+940,1322886,co2;emissions
+941,1322886,regional;climate;emissions;carbon;scenarios;co2;economics;global;projections;ipcc;china
+942,1336057,rna;non coding;transcriptome
+943,1336057,genome;ncrna;classification
+944,1336057,expression;rna
+945,1336057,noncoding rna;rna;transcription
+946,1336057,expression;transcriptome;genome;classification;ncrna;non coding;transcription;noncoding rna
+947,1336057,in depth;in depth suggestion;eisen journal club
+948,1362387,genome wide;chip seq
+949,1362387,genomic;interaction
+950,1362387,chip seq;genomics;cis regulatory elements
+951,1362387,chipseq;sequencing;dna protein interaction;biotech
+952,1362387,solexa;chipchip
+953,1362387,molecular;protein
+954,1362387,sequencing;method;chip;cisreg
+955,1362387,transcription factors;protein dna
+956,1362387,protein dna interactions;chip chip
+957,1362387,genome;interaction
+958,1362387,protein;rna;genome;interaction
+959,1362387,complexity;whole genomic;gene expression
+960,1388250,misc;evolution
+961,1388250,genetics;gene function
+962,1388250,encode;affymetrix;genomics;race
+963,1388250,function;encode;genome;human
+964,1388250,stuart presented;round robin;eisen journal club
+965,1388250,evolution;encode
+966,1388250,genome;encode;rna;rna world
+967,1388250,regulation;accessibility;non protein coding;modification;histone;and;transcriptional;chromatin;transcripts
+968,1388250,functional;analysis;genome;encode;human
+969,1388250,human genome;encode
+970,1388250,genomic;encode
+971,1391621,heather;attention;joo seuk;arash;kristina
+972,1391621,070207;coherence;lfp;lip;mt;attention
+973,1391621,attention;monkeys;visual;synchronization
+974,1391621,brain;dynamics;synchronization;visual
+975,1391621,simultanous recording;parietal cortex
+976,1391621,heather;kristina;attention;arash
+977,1391621,attention;mt;lip
+978,1392584,joo seuk;attention;kristina;heather;oscillations
+979,1392584,kristina;attention;eeg;arash;heather
+980,1392584,alpha;vision;human;oscillation;gamma;eeg
+981,1392792,genomic;general;encode
+982,1392792,gene;molecular
+983,1392792,evolution;encode
+984,1392792,comparative analysis;gene;encode
+985,1392792,genomics;ontology;history;science;gene
+986,1392792,emily presented;round robin;eisen journal club
+987,1392792,dna;gene;molecular;biology;genomics
+988,1392792,genotype to phenotype;gene expression;heredity;genome variation;informatics;orthologs paralogs
+989,1392792,genome;encode;gene
+990,1418865,rpe;stimulation;habenula;dopamine
+991,1418865,inhibition;vta;snc;habenula;rat;prediction
+992,1418865,neurophysiology;reinforcement learning;dopamine;rat;habenula
+993,1418865,dopamine;vta;lateral habenula;physiology;snc
+994,1453145,folksonomy;collaborative;tagging;tag;cloud
+995,1453145,collaborative tagging;tagging;tag clouds;folksonomies;folksonomy
+996,1453145,search;tool;folksonomy;tagging
+997,1465869,anthropology;biology;evolution;race;africa;single origin
+998,1465869,evolutionary genomics;genome variation;anthropometry;evolution;evolution of intelligence;pop gen;cultural evolution
+999,1465869,afrique;genetique;evolution;paleoanthropologie;phenotype;200707
+1000,1465869,ibd;out of africa;pro replacement;morphology;genetics
+1001,1465869,phenotype;human;genome;genetics;variation;population dynamics;population
+1002,1465869,bottlenecks;population;phenotypic;on;variation;ancient;human
+1003,1465869,human evolution;human genetics;human variation
+1004,1532668,dorsal striatum;decision making
+1005,1532668,striatum;dorsal striatum;reinforcement learning;reward;dopamine;review;decision;basal ganglia
+1006,1532668,basal ganglia;striatum;reinforcement learning;dopamine;review
+1007,1532668,decision;striatum;reward;dorsal striatum;review
+1008,1551105,evolution;yeast;block;gene regulation;networks
+1009,1551105,eisen journal club;in depth suggestion
+1010,1551105,cis regulatory;fungi
+1011,1551105,geneexpression;yeast
+1012,1551105,compare genomics;tfbs;regulation
+1013,1551105,yeast;transcription
+1014,1551105,evolution;acceleration;chip chip;yeast;tf;expression
+1015,1551105,devin presented;eisen journal club;rich presented
+1016,1551105,divergence;yeast;binding site
+1017,1551105,yeast;divergence;transcription;binding;site
+1018,1568644,coding;redundancy;lif;correlation
+1019,1568644,rate code;kristina
+1020,1568644,neurodynamics;computation;neuron;correlation
+1021,1568644,coding;correlation;integrate and fire
+1022,1568644,rate coding;analysis;synchronization
+1023,1568644,correlation;neural coding
+1024,1602005,visualization;network alignment;tools;protein protein
+1025,1602005,biological;assessment;networks;visulization
+1026,1602005,network;biological theme;bioinformatics
+1027,1602005,review;network
+1028,1602005,visualization;tools;bioinformatics
+1029,1610049,round robin;stuart presented;eisen journal club
+1030,1610049,genetics;lgt;bacteria;eukaryotes;have as pdf;phylogeny;evolution
+1031,1610049,genome;bacterial;gene;eukaryota;evolution;lgt
+1032,1610049,drosophila;genomics;wolbachia
+1033,1610049,lateral transfer;evolution;bacteria
+1034,1610369,c fos;associative memory;mouse;transgenic;2p;morphology;mutant mice;method;imaging;l and m
+1035,1610369,tools;memory;amygdala;molecular;biology
+1036,1610369,methods;amygdala;consolidation;mutant mice;c fos;retrieval
+1037,1610369,associative memory;general
+1038,1624776,genome duplication;gene duplication;yeast genomics
+1039,1624776,eisen journal club;in depth suggestion
+1040,1624776,geneorder;synteny;genometrees
+1041,1624776,yeast;proteins;evolution
+1042,1624776,evolution;gene
+1043,1624776,gene duplication;fungi;adaptation;stress genes;evolution
+1044,1624776,yea;gene fusion
+1045,1624776,yeast;evolution;synteny;gene
+1046,1631613,oceans;co2;carbon;coastal;atmospheric deposition;nitrogen;nitrate;dic;eutrophication;sulfur;acidification;alkalinity
+1047,1631613,ocean;impacts;dic;anthropogenic;sulfur;atmosphere;co2;nitrogen;acidification;climate;carbon
+1048,1632947,action;science;goal directed;monkey;macaque
+1049,1632947,nichola;brian;imitation;jessica;shiva;social cognition
+1050,1632947,primate;imitation;social cognition;primates;evolution;cognition;distributed;reasoning;practical;rationality;non linguistic rationality
+1051,1632947,cognition;primate;rationality
+1052,1632947,inference;monkey
+1053,1632947,non linguistic rationality;practical;rationality;reasoning;cognition
+1054,1632947,distributed;evolution;rationality;primate
+1055,1752368,games;dynamics;language
+1056,1752368,real data;nowak;modeling;verb;math;frequency;language evolution
+1057,1752368,models;language evolution
+1058,1752368,language;evolutionary dynamics
+1059,1752368,language;evolution;vocabulary
+1060,1752368,historical;words;language;lexicography;linguistics
+1061,1752368,evolutionary;thousand;the;language;alternatives;dynamics;rule;of;tombstone;is;a
+1062,1752368,evolution;word;modeling;language evolution;word frequency;language
+1063,1752368,evolution;clip2;language
+1064,1794647,refinement;comparative modeling;simulation methods
+1065,1794647,algorithms;phd;modelling;structure;classic
+1066,1794647,prediction;structure
+1067,1794647,structure;prediction
+1068,1794647,x ray;prediction;structure;crystallography;ab initio;star3;protein;nmr
+1069,1794647,prediction;protein;computation;structure
+1070,1880339,fly;conservation
+1071,1880339,genomics;evolution;mirna;fly;motifs;signatures
+1072,1880339,fly;networks;regulatory
+1073,1880339,genomics;droso
+1074,1880339,genome;functional elements;drosophila
+1075,1880339,drosophila;bioinformatics;2007;comparative genomics
+1076,1880339,comparative;genome
+1077,1880603,evolution;genome;gene;phylogeny
+1078,1880603,12flies;comparative genomics;drosophila;genome paper
+1079,1880603,genome;evolution;fly
+1080,1880603,genomics;selection;fly;evolution
+1081,1880603,droso;genomics;phylogeny
+1082,1880603,drosophila;annotation;comparative;fly;genome
+1083,1880603,method;evolution;genome
+1084,1880603,repeats;genome size;phylogeny;dmel;droso
+1085,1880603,comparative genomics;evolution;phylogeny;2007;drosophila
+1086,1910555,promoter;expression
+1087,1910555,expression regulation;promoter;synthetic biology
+1088,1910555,syntheticbiology;rules;promoter;excellent;design
+1089,1910555,organization;activator;model;synthetic;coli;luciferase;factor;arac;transcription;operator;bioinformatics;regulation;noncoding;polymerase;logic;arabinose;biology;comparative;gene;library;prokaryote;repression;protein;combinatorial;activation;circuits;architecture;bacteria;promoter;lac;laci;sequence;initiation;interaction;repressor;experimental
+1090,1910555,cis regulatory elements;eisen journal club;rich presented;grammar;round robin
+1091,1910555,transcriptome;transcription;tfbs;regulation;expression
+1092,1910555,gene expression;systems biology;gene circuits;synthetic biology
+1093,1910555,actex;transcription modules
+1094,1910555,gene;expression;synthetic;promoter
+1095,1910555,network;bioinformatics;systems;tfs
+1096,1910555,evo computation;evolvability;systems biology;informatics;genotype to phenotype;gene expression;evolution
+1097,1926414,memory;nichola;consolidation;kristina;heather;hippocampus;learning;pfc
+1098,1926414,cortex;memory;sleep
+1099,1926414,sleep;rat;electrophysiology;memory;hippocampus;prefrontal
+1100,1989097,evolution;gene;genome wide;orf;transcription;rna
+1101,1989097,gene finding;comparative genomics;annotation;human;noncoding;genome annotation
+1102,1989097,gene expression;evolutionary proteomics;evolution;genome variation
+1103,1989097,genome;sequence analysis;genomic
+1104,1989097,genetics;vertebrates;primates;data mining;proteins;sequence;humans;phylogenomics;amino acid;animals;rna;methods;homology;genome;algorithms;hominidae;mammals
+1105,1989097,bioinformatics;genomics
+1106,2163327,informatics;semanticweb;web30
+1107,2163327,hype;semantic web
+1108,2235507,gene expression;transcription factor binding site;evolution
+1109,2235507,microarray;fungi;cis regulatory
+1110,2235507,gene;promoter;expression
+1111,2235507,gene expression;systems biology;evolutionary genomics;evolution
+1112,2235507,promoter;divergence;gene;expression;evolution
+1113,2288308,transcription;regulation
+1114,2288308,msa;alignment
+1115,2288308,alignment;alignment accuracy
+1116,2288308,phylogenetics;genomics
+1117,2288308,alignment;bioinformatics;genome
+1118,2288308,alignment;phyloalignment;test;phylogeny
+1119,2288308,methods;alignment;genomics;phylogenetics
+1120,2288308,phylogenetics;sequence alignment;evolution;faulty assumptions;phylogenomics
+1121,2288308,alignment;tree comparison

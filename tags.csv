@@ -1,0 +1,5761 @@
+,fileName,tags
+0,101.tags,"motifs
+networks
+original
+"
+1,2107.tags,"yeast
+networks
+"
+2,272.tags,"datasets
+networks
+"
+3,3594.tags,"networks
+motifs
+"
+4,43.tags,"robustness
+engineering
+control
+"
+5,44.tags,"review
+networks
+survey
+strogatz
+"
+6,47.tags,"navigation
+citeulike
+networks
+"
+7,99.tags,"networks
+dynamics
+"
+8,101.tags,"networks
+motifs
+"
+9,303213.tags,"citeulike
+social bookmarking
+"
+10,303889.tags,"social networks
+email
+search
+networks
+"
+11,3594.tags,"motifs
+sysbio
+networks
+"
+12,47.tags,"networks
+navigation
+small world
+search
+"
+13,84176.tags,"similarity
+networks
+complexity
+"
+14,141840.tags,"clustering
+microarray
+method
+"
+15,238188.tags,"blast
+sequence
+search
+"
+16,239528.tags,"dna
+normalization
+method
+microarray
+rma
+"
+17,1320727.tags,"genotype phenotype
+gene expression
+"
+18,136657.tags,"review
+text mining
+"
+19,227153.tags,"human
+whole genome
+"
+20,272363.tags,"text mining
+review
+"
+21,312476.tags,"unsupervised learning
+nlp
+"
+22,438129.tags,"media
+credibility
+"
+23,738207.tags,"citation context
+nlp
+"
+24,112878.tags,"human
+ultraconserved
+uce
+genome
+"
+25,1465869.tags,"phenotype
+human
+genome
+genetics
+variation
+population dynamics
+population
+"
+26,2100.tags,"systemsbiology
+popcorn
+"
+27,2288308.tags,"alignment
+phyloalignment
+test
+phylogeny
+"
+28,329170.tags,"popcorn
+evolution
+protein evolution
+"
+29,420465.tags,"selection
+evolution
+genome
+conserved
+"
+30,329170.tags,"protein structure
+statistical coupling analysis
+correlated mutations
+protein evolution
+protein sequence
+"
+31,354027.tags,"comparative modeling
+protein structure
+protein interaction
+"
+32,778023.tags,"pca
+neural networks
+statistics
+algorithms
+r
+"
+33,1016800.tags,"evolution
+protein structure
+networks
+"
+34,329170.tags,"evolution
+folding
+coevolution
+"
+35,332173.tags,"contact map
+active site
+evolution
+function prediction
+"
+36,333353.tags,"theory
+systems biology
+gene networks
+evolution
+"
+37,406519.tags,"robustness
+modeling
+systems biology
+control
+evolution
+network motifs
+"
+38,43.tags,"systems biology
+robustness
+"
+39,155900.tags,"infant
+false belief
+belief
+psychology
+theory of mind
+"
+40,1632947.tags,"cognition
+primate
+rationality
+"
+41,1752368.tags,"evolution
+word
+modeling
+language evolution
+word frequency
+language
+"
+42,211497.tags,"language evolution
+language
+modeling
+linguistics
+evolution
+"
+43,265789.tags,"cognition
+linguistics
+development
+evolution
+brain
+language acquisition
+learning
+language
+"
+44,312124.tags,"learning
+statistics
+language acquisition
+artificial grammar
+child
+development
+"
+45,312476.tags,"language
+language acquisition
+computational linguistics
+machine learning
+learning
+nlp
+linguistics
+unsupervised learning
+statistics
+grammar
+"
+46,400238.tags,"imitation
+tms
+action
+brain
+mirror neuron
+"
+47,507525.tags,"bayesian
+reasoning
+causality
+rat
+"
+48,602903.tags,"recursion
+songbird
+syntax
+language evolution
+commentary
+bird
+"
+49,609199.tags,"number
+sapir whorf hypothesis
+"
+50,656280.tags,"cognition
+tool
+apes
+"
+51,771168.tags,"theory of mind
+scrub jay
+bird
+"
+52,778023.tags,"connectionist
+statistics
+modeling
+"
+53,2100.tags,"genomics
+networks
+metabolic networks
+bioinformatics
+systems biology
+proteomics
+"
+54,2100.tags,"data integration
+reverse engineering
+"
+55,303213.tags,"cannotea
+citeulike
+"
+56,740681.tags,"social networks
+metadata
+tagging
+social informatics
+folksonomies
+bookmarking
+"
+57,106364.tags,"regulatory
+motif
+"
+58,141840.tags,"clustering
+expression
+"
+59,332150.tags,"mammalian
+transcription
+"
+60,334264.tags,"interactome
+proteome
+"
+61,466050.tags,"regulatory
+expression
+"
+62,466068.tags,"transcription
+regulatory
+"
+63,47.tags,"small world
+network
+"
+64,1989097.tags,"genetics
+vertebrates
+primates
+data mining
+proteins
+sequence
+humans
+phylogenomics
+amino acid
+animals
+rna
+methods
+homology
+genome
+algorithms
+hominidae
+mammals
+"
+65,231294.tags,"likelihood
+inference
+software
+bayesian
+phylogeny
+"
+66,415502.tags,"alignment
+databases
+algorithms
+methods
+programming
+software
+data mining
+"
+67,444860.tags,"rats
+vertebrates
+sequence
+genetics
+rodents
+genome
+phylogenomics
+mammals
+data mining
+animals
+"
+68,1016800.tags,"protein networks
+quaternary structure
+ppi review
+ppi evolution
+"
+69,227153.tags,"classics
+1st yr report
+"
+70,238188.tags,"sequence alignment
+1st yr report
+classics
+"
+71,354027.tags,"interface properties
+ppi review
+modelling interactions
+"
+72,833421.tags,"systems biology
+snps
+protein networks
+scale free
+"
+73,118727.tags,"structures
+general rna
+"
+74,1272533.tags,"analysis
+statistics
+"
+75,2288308.tags,"phylogenetics
+genomics
+"
+76,355574.tags,"evolution
+proteins
+"
+77,668933.tags,"reviews
+molecular
+genomics
+"
+78,771144.tags,"general rna
+reviews
+mirna
+"
+79,1133633.tags,"clustering
+rna
+structure alignment
+secondary structure
+"
+80,126997.tags,"protein folding
+structural genomics
+computational biology
+evolution
+protein structure
+"
+81,1336057.tags,"genome
+ncrna
+classification
+"
+82,150261.tags,"structure
+rna
+secondary structure
+bioinformatics
+"
+83,329170.tags,"software
+protein folding
+protein structure
+bioinformatics
+"
+84,332173.tags,"biophysics
+structure prediction
+bioinformatics
+statistical potentials
+sequence alignment
+"
+85,355574.tags,"evolution
+genes
+"
+86,437770.tags,"software
+bioinformatics
+rna
+secondary structure
+"
+87,523878.tags,"ncrna
+rna
+genome
+"
+88,612608.tags,"bioinformatics
+secondary structure
+rna
+statistics
+"
+89,668933.tags,"rna
+views
+"
+90,771144.tags,"rna
+review
+"
+91,833421.tags,"bioinformatics
+protein interactions
+"
+92,880918.tags,"disease
+bioinformatics
+genome
+drug
+"
+93,937059.tags,"stem cells
+systems biology
+protein interactions
+"
+94,101.tags,"net paper
+networks
+"
+95,126997.tags,"structure prediction
+protein structure
+"
+96,302050.tags,"net paper
+networks
+"
+97,333353.tags,"systems biology
+networks
+network motif
+"
+98,355573.tags,"memory
+basal ganglia
+explore exploit
+reinforcement learning
+striatum
+prefrontal cortex
+"
+99,438129.tags,"information
+internet
+comunication
+wikipedia
+article
+wiki
+comparison
+media
+incentives
+collaborative communities
+credibility
+science
+informatica
+research
+nature
+quality
+"
+100,1206611.tags,"evolution
+sociology
+quantifying
+cell
+complexity
+auto correlation
+community
+collaboration
+dynamics
+complex network
+07
+k clique
+social network
+percolation
+network
+socialnetworking
+networks dynamic
+networks
+phone
+social networks
+cooperation
+networktheory
+quantitative
+social dynamics
+social networks
+social
+social analysis
+taggingpres
+scientific
+generations
+tagging
+swarm
+sociophysics
+social network
+cultural evolution
+group
+social structure
+"
+101,1465869.tags,"bottlenecks
+population
+phenotypic
+on
+variation
+ancient
+human
+"
+102,44.tags,"networks
+complex
+"
+103,459365.tags,"evolving
+social
+network
+"
+104,249.tags,"biological model
+systems biology
+modelling
+"
+105,43.tags,"systems biology
+systems
+biological model
+robustness
+emergence
+"
+106,1752368.tags,"real data
+nowak
+modeling
+verb
+math
+frequency
+language evolution
+"
+107,211497.tags,"modeling
+syntax
+language evolution
+nowak
+math
+"
+108,265789.tags,"chomsky
+language evolution
+"
+109,106364.tags,"regulation
+motif
+promoter
+"
+110,141840.tags,"genome
+expression
+clustering
+"
+111,2100.tags,"genome
+perturbed
+protein
+network
+metabolic
+"
+112,334264.tags,"interaction
+protein
+network
+"
+113,407273.tags,"biology
+systems
+integration
+"
+114,506455.tags,"regulation
+gene
+"
+115,553494.tags,"protein
+expression
+stochastic
+"
+116,303213.tags,"citeulike
+connotea
+society
+social bookmarking
+nature publishing group
+social software
+"
+117,499796.tags,"cmc
+digital divide
+identity
+social interaction
+online behavior
+social networks
+virtual
+community
+social capital
+internet surveys
+internet
+"
+118,98486.tags,"haptic
+visual
+proprioceptive
+optimal
+integration
+motor
+sensorimotor
+control
+"
+119,332150.tags,"genome
+transcriptome
+"
+120,466068.tags,"tfbs
+regulation
+over representation
+promoter
+"
+121,332150.tags,"annotation
+human
+expression
+"
+122,355574.tags,"evolution
+human
+"
+123,309778.tags,"network
+inflammation
+"
+124,466068.tags,"network
+yeast
+transcription
+"
+125,504894.tags,"breast
+microarray
+cancer
+survival
+"
+126,101.tags,"combinatorics
+networks
+applied math
+complexity
+"
+127,1097231.tags,"genome variation
+evolutionary genomics
+gene expression
+genotype to phenotype
+evolution
+copy number
+evo devo
+"
+128,112878.tags,"informatics
+nat selection tests
+modeling and simulation
+whole genomic
+evolutionary genomics
+evolution
+"
+129,118727.tags,"systems biology
+informatics
+machine learning
+evolutionary proteomics
+"
+130,1320727.tags,"evolvability
+gene expression
+gene gene
+whole genomic
+genotype to phenotype
+genome variation
+diseaseomics
+evolutionary genomics
+evolutionary proteomics
+evolution
+"
+131,1362387.tags,"complexity
+whole genomic
+gene expression
+"
+132,1392792.tags,"genotype to phenotype
+gene expression
+heredity
+genome variation
+informatics
+orthologs paralogs
+"
+133,141524.tags,"molecular signaling
+gene expression
+molecular general
+ecophysiology
+adaptive systems
+morphogenesis
+"
+134,1465869.tags,"evolutionary genomics
+genome variation
+anthropometry
+evolution
+evolution of intelligence
+pop gen
+cultural evolution
+"
+135,1910555.tags,"evo computation
+evolvability
+systems biology
+informatics
+genotype to phenotype
+gene expression
+evolution
+"
+136,1989097.tags,"gene expression
+evolutionary proteomics
+evolution
+genome variation
+"
+137,2235507.tags,"gene expression
+systems biology
+evolutionary genomics
+evolution
+"
+138,332150.tags,"animal model
+gene expression
+development
+evolution
+morphogenesis
+"
+139,363614.tags,"informatics
+complexity
+modeling and simulation
+networks
+"
+140,406519.tags,"evolution
+biological inspired modeling
+"
+141,44.tags,"adaptive systems
+networks
+complexity
+bistability
+"
+142,466050.tags,"evolution
+evo computation
+systems biology
+homeotic theory
+genotype to phenotype
+evo devo
+evolvability
+"
+143,466068.tags,"systems biology
+whole genomic
+evo devo
+evo computation
+regulatory cascades
+genome structure
+gene expression
+evolutionary genomics
+"
+144,47.tags,"complexity
+networks
+"
+145,506455.tags,"regulatory cascades
+gene expression
+morphogenesis
+development
+evolution
+molecular signaling
+"
+146,80410.tags,"brain anatomy
+methods
+neuro tech
+neuro connectivity
+"
+147,86487.tags,"molecular signaling
+regulatory cascades
+molecular general
+microarray
+"
+148,90558.tags,"graph theory
+complexity
+applied math
+networks
+adaptive systems
+"
+149,98486.tags,"cog neuro
+applied math
+modeling and simulation
+perception
+sensory systems
+multisensory integration
+"
+150,99.tags,"bistability
+networks
+complexity
+time oriented science
+"
+151,101973.tags,"learning
+basalganglia
+striatum
+striatothalamocortical
+reversal
+dlpfc
+"
+152,1272533.tags,"statistics
+graphs
+"
+153,1391621.tags,"070207
+coherence
+lfp
+lip
+mt
+attention
+"
+154,1418865.tags,"inhibition
+vta
+snc
+habenula
+rat
+prediction
+"
+155,1632947.tags,"inference
+monkey
+"
+156,261639.tags,"rat
+eligibilitytrace
+td model
+dopamine
+reinforcementlearning
+"
+157,353537.tags,"dopamine
+reinforcementlearning
+review
+td model
+reward
+"
+158,407273.tags,"omnibus
+statistics
+combination
+"
+159,465989.tags,"amygdala
+ambiguity
+uncertainty
+"
+160,506468.tags,"amygdala
+aversive
+reward
+reinforcement
+monkey
+punishment
+airpuff
+reinforcementlearning
+"
+161,802975.tags,"basalganglia
+ventralstriatum
+striatum
+neuroanatomy
+monkey
+"
+162,86865.tags,"decisionmaking
+lip
+eyemovements
+monkey
+reinforcementlearning
+reward
+"
+163,98486.tags,"estimation
+cuecombination
+psychophysics
+mle
+"
+164,238188.tags,"z paper strainer
+software
+assembly
+bioinformatics
+"
+165,406519.tags,"network
+regulation
+bacteria
+"
+166,415502.tags,"x bioinf software
+software
+genetics
+"
+167,100166.tags,"inference
+a exam
+"
+168,137111.tags,"a exam
+evolution
+"
+169,101973.tags,"learning
+striatum
+neurophysiology
+monkey
+prefrontal
+"
+170,1197981.tags,"neurophysiology
+monkey
+prefrontal
+attention
+fef
+lip
+"
+171,121661.tags,"reward
+monkey
+neurophysiology
+dopamine
+"
+172,1322799.tags,"discounting
+choicebehavior
+neuroeconomics
+fmri
+neuroimaging
+human
+"
+173,1418865.tags,"neurophysiology
+reinforcement learning
+dopamine
+rat
+habenula
+"
+174,1926414.tags,"sleep
+rat
+electrophysiology
+memory
+hippocampus
+prefrontal
+"
+175,261639.tags,"reinforcement learning
+classical conditioning
+rat
+neurophysiology
+dopamine
+"
+176,430079.tags,"vision
+neurophysiology
+review
+"
+177,506468.tags,"reward
+neurophysiology
+monkey
+learning
+amygdala
+"
+178,507926.tags,"human
+decisionmaking
+implicit
+"
+179,802975.tags,"ventral striatum
+ pg
+reward
+monkey
+neuroanatomy
+"
+180,80410.tags,"twophoton
+optical imaging
+localcircuit
+neuroanatomy
+"
+181,86865.tags," francesca
+decisionmaking
+lip
+neurophysiology
+monkey
+"
+182,422950.tags,"publishing
+xml
+web
+"
+183,778023.tags,"neural
+data
+network
+neuralnetwork
+"
+184,1197981.tags,"yigal
+kristina
+attention
+joo seuk
+"
+185,1272533.tags,"errorbars
+statistics
+bob
+visionlab
+"
+186,1391621.tags,"heather
+attention
+joo seuk
+arash
+kristina
+"
+187,1392584.tags,"joo seuk
+attention
+kristina
+heather
+oscillations
+"
+188,1568644.tags,"rate code
+kristina
+"
+189,400238.tags,"yigal
+jessica
+gestures
+imitation
+"
+190,430079.tags,"heather
+vision
+visual memory
+"
+191,1016800.tags,"binding
+evolution
+phd
+networks
+structure
+"
+192,1272533.tags,"validation
+classification
+statistics
+classic
+microarray
+gene regulation
+"
+193,142323.tags,"binding
+structure
+"
+194,1551105.tags,"evolution
+yeast
+block
+gene regulation
+networks
+"
+195,1794647.tags,"algorithms
+phd
+modelling
+structure
+classic
+"
+196,238188.tags,"algorithms
+classic
+"
+197,354027.tags,"embl
+binding
+structure
+networks
+phd
+"
+198,415502.tags,"formats
+informatics
+"
+199,466068.tags,"yeast
+block
+gene regulation
+experimental
+networks
+"
+200,477450.tags,"structure
+yeast
+phd
+binding
+embl
+"
+201,560813.tags,"networks
+binding
+structure
+yeast
+"
+202,101.tags,"motifs
+networks
+"
+203,307461.tags,"motifs
+networks
+"
+204,363614.tags,"motifs
+networks
+"
+205,106364.tags,"microrna
+prediction
+target
+"
+206,1116998.tags,"prediction
+gene
+network
+"
+207,1133633.tags,"alignment
+rna
+structure
+secondary structure
+secondary
+"
+208,118727.tags,"structure
+rna
+prediction
+secondary
+"
+209,118744.tags,"secondary
+scfg
+prediction
+structure
+rna
+"
+210,1794647.tags,"x ray
+prediction
+structure
+crystallography
+ab initio
+star3
+protein
+nmr
+"
+211,332150.tags,"rna
+tiling
+noncoding
+mouse
+genome
+"
+212,332173.tags,"structure
+mutual
+protein
+information
+3d
+"
+213,420465.tags,"structure
+secondary
+rna
+prediction
+noncoding
+conserved
+"
+214,437770.tags,"secondary
+sequence
+rna
+prediction
+"
+215,540889.tags,"dna
+expression
+factor
+microarray
+transcription
+"
+216,771144.tags,"pirna
+microrna
+"
+217,438129.tags,"internet
+information
+science
+research
+comunication
+"
+218,446839.tags,"blog
+theory
+newmedia
+image
+ethnography
+"
+219,740681.tags,"hcm2006
+social
+metadata
+"
+220,100166.tags,"bayes
+inference
+dt
+review
+"
+221,101.tags,"sysbio
+motifs
+networks
+network
+"
+222,1116998.tags,"gene
+network
+inference
+expression
+"
+223,1159615.tags,"network
+function
+protein
+prediction
+"
+224,1226851.tags,"bayesian
+sysbio
+"
+225,141840.tags,"clustering
+visualization
+expresssiondata
+"
+226,142323.tags,"interaction
+domain
+protein
+statistics
+"
+227,248.tags,"systemsbiology
+sec background sysbio
+review
+sysbio
+overview
+dt
+"
+228,249.tags,"overview
+sec background sysbio
+review
+systemsbiology
+sysbio
+dt
+"
+229,302050.tags,"network
+metabolic
+graphclustering
+"
+230,334264.tags,"proteininteraction
+human
+protein
+"
+231,406519.tags,"robustness
+network
+signaling
+"
+232,407273.tags,"sysbio
+systemsbiology
+biology
+dataintegration
+"
+233,44.tags,"networks
+complex
+"
+234,553494.tags,"stochasticity
+protein
+"
+235,937059.tags,"stem
+cell
+interaction
+protein
+"
+236,112878.tags,"human
+ultra conserved sequences
+human genetics
+human genome
+"
+237,1392792.tags,"comparative analysis
+gene
+encode
+"
+238,1465869.tags,"human evolution
+human genetics
+human variation
+"
+239,1624776.tags,"genome duplication
+gene duplication
+yeast genomics
+"
+240,444860.tags,"genome
+rat genome
+"
+241,460153.tags,"structure
+eukaryotic
+gene
+"
+242,540889.tags,"expression profiling
+primates
+human evolution
+"
+243,668933.tags,"genetics
+gene
+"
+244,771144.tags,"rna
+sirna
+rnai
+"
+245,904109.tags,"expression profiling
+gene expression
+"
+246,292.tags,"experimental
+biological
+for
+design
+systems
+"
+247,466050.tags,"network
+regulatory
+transcriptional
+"
+248,540889.tags,"evolution
+factor
+transcription
+"
+249,86487.tags,"microarray
+mirna
+"
+250,1752368.tags,"language
+evolution
+vocabulary
+"
+251,211497.tags,"syntax
+language
+evolution
+"
+252,446839.tags,"theory
+images
+blogs
+hypermedia
+newmedia
+"
+253,422950.tags,"data
+collaboration
+research
+publishing
+"
+254,155900.tags,"theory of mind
+infants
+psychology
+human
+beliefs
+"
+255,302050.tags,"scalinglaw
+hierarchy
+network
+cluster
+eni
+scalefree
+modularity
+graphs
+complexity
+graphclustering
+"
+256,363614.tags,"eni
+complexity
+networks
+biological
+social
+"
+257,1307464.tags,"transcription
+network
+"
+258,272.tags,"dynamics
+yeast
+simulation
+network
+metabolism
+"
+259,1272533.tags,"statistics
+review
+"
+260,1320727.tags,"protein
+interaction
+disease
+networks
+"
+261,334264.tags,"interaction
+protein
+networks
+y2h
+human
+"
+262,478707.tags,"networks
+interaction
+protein
+"
+263,880918.tags,"chemical
+activity profile
+microarray
+bioassay
+drug
+"
+264,101.tags,"2002
+complexity
+network
+sub graph pattern
+motif
+"
+265,1206611.tags,"community
+2007
+k clique
+auto correlation
+social network
+social
+evolution
+complex network
+dynamics
+"
+266,249.tags,"modelling
+complexity
+2002
+biology
+"
+267,302050.tags,"cluster
+hierarchy
+network
+2002
+scaling law
+scale free
+"
+268,363614.tags,"motif
+network
+2004
+"
+269,43.tags,"engineering
+2002
+network
+robustness
+biology
+"
+270,44.tags,"complexity
+small world
+network
+2001
+"
+271,90558.tags,"1999
+network
+emergence
+growth
+complex network
+power law
+preferantial attachment
+scale free
+model
+"
+272,1336057.tags,"rna
+non coding
+transcriptome
+"
+273,477450.tags,"high throughput
+proteome
+protein
+large scale
+yeast
+cell
+bio informatics
+modularity
+machinery
+complexes
+proteomics
+"
+274,559064.tags,"transcription
+gene
+network
+body
+regulation
+plan
+review
+animal
+"
+275,1320727.tags,"networks
+disease
+reference
+"
+276,248.tags,"systemsbiology
+review
+"
+277,477450.tags,"ms
+statistics
+datamining
+"
+278,332173.tags,"function
+mutagenesis
+"
+279,460153.tags,"neutral
+hypothesis
+genome
+"
+280,106364.tags,"target
+ncrna
+microrna
+3utr
+"
+281,118649.tags,"bioinformatics
+ncrna
+microrna
+"
+282,118727.tags,"rna
+bioinformatics
+"
+283,137111.tags,"rna
+genome
+epigenetic
+"
+284,332150.tags,"fantom
+genome
+"
+285,668933.tags,"rna
+review
+genome
+"
+286,771144.tags,"ncrna
+review
+pirna
+"
+287,86487.tags,"microarray
+ncrna
+microrna
+"
+288,141840.tags,"gene expression
+genome
+genettic interactions
+"
+289,477450.tags,"genettic interactions
+p2p
+"
+290,560813.tags,"genettic interactions
+p2p
+"
+291,229.tags,"genome
+mouse
+"
+292,444860.tags,"rat
+genome
+sequence
+variation
+"
+293,477450.tags,"proteome
+network
+ppi
+"
+294,540889.tags,"pan
+homo
+evolution
+expression
+tf
+"
+295,553494.tags,"protein
+noise
+methods
+expression
+detection
+"
+296,571538.tags,"detection
+polymorhpism
+snp
+arrays
+"
+297,460153.tags,"evolution
+genetics
+"
+298,506455.tags,"noise
+gene expression
+transcriptional regulation
+"
+299,101.tags,"combinatorics
+computer science
+motifs
+complexity
+applied math
+network
+web graph
+sub graph pattern
+motif
+networks
+original
+"
+300,523878.tags,"microrna
+arabidopsis
+transcriptome
+"
+301,101.tags,"motifs
+network
+"
+302,114199.tags,"society
+history
+"
+303,1226851.tags,"review
+statistics
+systemsbiology
+bayesian
+"
+304,248.tags,"systemsbiology
+review
+"
+305,333353.tags,"network
+printed
+evolution
+"
+306,44.tags,"review
+network
+graph
+"
+307,477450.tags,"yeast
+proteomics
+modularity
+omics
+"
+308,507525.tags,"cognition
+rat
+causality
+"
+309,549806.tags,"parameter
+optimization
+pathway
+"
+310,106364.tags,"regulation
+promoters
+genomics
+"
+311,1097231.tags,"hapmap
+copy number
+snp
+cnv
+"
+312,1116998.tags,"systems biology
+review
+network
+"
+313,1226851.tags,"statistics
+bioinformatics
+review
+"
+314,407273.tags,"systems biology
+integration
+bioinformatics
+"
+315,504894.tags,"classification
+breast cancer
+"
+316,525366.tags,"gene set analysis
+bioinformatics
+"
+317,957831.tags,"copy number
+genomics
+"
+318,499796.tags,"online behavior
+internet
+social networks
+digital divide
+cmc
+social interaction
+online communities
+"
+319,141524.tags,"noise
+elowitz
+"
+320,406519.tags,"chemotaxis
+general model
+noise
+"
+321,516580.tags,"artefacts
+hobbit
+flores
+indonesia
+archaeology
+dating
+"
+322,516580.tags,"archaeology
+dating
+artefacts
+homo
+indonesia
+hobbit
+flores
+"
+323,1880603.tags,"drosophila
+annotation
+comparative
+fly
+genome
+"
+324,238188.tags,"algorithm
+alignment
+"
+325,415502.tags,"bioinformatics
+toolkit
+software
+"
+326,420465.tags,"constraint
+conserved
+"
+327,460153.tags,"gene
+structure
+evolutionary
+eukaryotic
+"
+328,482101.tags,"binding
+selex
+transcription
+factor
+"
+329,137111.tags,"non mendelian inheritance
+arabidopsis
+"
+330,333353.tags,"network structure
+model
+"
+331,44.tags,"review
+network biological
+"
+332,460153.tags,"gene structure
+evolution eukaryote
+"
+333,553497.tags,"genome duplication
+speciation
+polyploidy
+yeast
+"
+334,656280.tags,"cognition
+primate
+"
+335,523878.tags,"printed
+ncrna
+transcriptome
+unread
+"
+336,668933.tags,"rna
+genetics
+transcription
+dna
+ncrna
+"
+337,437770.tags,"codeword design
+rna
+dna
+"
+338,482101.tags,"microarray
+dna binding
+hairpin
+"
+339,312476.tags,"algorithms
+computation
+mathematics
+networks
+graphs
+languages
+"
+340,668899.tags,"endorsements
+printed
+networks
+mathematics
+graphs
+"
+341,460153.tags,"introns
+gene
+environment
+molecular
+evolution
+mutation
+"
+342,559064.tags,"evolution
+gene
+development
+gene regulation
+network
+pre cambrian
+"
+343,238188.tags,"thesis
+nsf2007
+"
+344,312476.tags,"language
+algorithm
+ai
+learning
+linguistics
+"
+345,460153.tags,"evolution
+genome
+"
+346,525366.tags,"human
+data mining
+microarray
+pathway
+chip
+"
+347,400238.tags,"perception
+imagery
+motorlearning
+imitation
+"
+348,507525.tags,"context
+apfc
+motorlearning
+"
+349,1624776.tags,"yea
+gene fusion
+"
+350,2288308.tags,"alignment
+tree comparison
+"
+351,460153.tags,"evolution
+euk
+"
+352,118649.tags,"secondary
+bioinformatics
+rna
+structure
+energy
+mirna
+free
+"
+353,118727.tags,"rna
+prediction
+structure
+bioinformatics
+secondary
+"
+354,118744.tags,"bioinformatics
+structure
+pseudoknots
+secondary
+rna
+mfe
+"
+355,150261.tags,"structure
+secondary
+kinetics
+folding
+rna
+bioinformatics
+"
+356,612608.tags,"secondary
+bayesian
+structure
+rna
+bioinformatics
+partition
+function
+"
+357,1097231.tags,"round robin
+association mapping
+gene expression
+cnv
+eisen journal club
+rich presented
+"
+358,1336057.tags,"in depth
+in depth suggestion
+eisen journal club
+"
+359,1388250.tags,"stuart presented
+round robin
+eisen journal club
+"
+360,1392792.tags,"emily presented
+round robin
+eisen journal club
+"
+361,1551105.tags,"eisen journal club
+in depth suggestion
+"
+362,1610049.tags,"round robin
+stuart presented
+eisen journal club
+"
+363,1624776.tags,"eisen journal club
+in depth suggestion
+"
+364,1910555.tags,"cis regulatory elements
+eisen journal club
+rich presented
+grammar
+round robin
+"
+365,2288308.tags,"alignment
+alignment accuracy
+"
+366,355574.tags,"population genetics
+test for selection
+human
+gene
+"
+367,466050.tags,"regulatory polymorphism
+regulatory evolution
+drosophila
+expression divergence
+cis vs trans
+hybrid
+expression polymorphism
+"
+368,466068.tags,"cis regulatory elements
+chip chip
+yeast
+"
+369,553497.tags,"duplication
+evolution
+yeast
+gene
+rapid
+speciation
+loss
+"
+370,559064.tags,"plan
+gene
+network
+regulation
+expression
+evolution
+body
+"
+371,620656.tags,"qtl
+regulatory network
+yeast
+eqtl
+"
+372,698675.tags,"conserved
+evolution
+human
+selection
+annotation
+constraint
+prediction
+alignment
+rate
+transcription
+turnover
+mammal
+"
+373,904109.tags,"eisen journal club
+eqtl
+qtl
+in depth
+variation
+gene expression
+association mapping
+"
+374,957831.tags,"angela presented
+eisen journal club
+round robin
+"
+375,136657.tags,"review
+bio
+text mining
+bib
+bioinformatics
+literature mining
+pubmed mining
+txtmining
+onto
+msc
+nlp
+"
+376,248.tags,"review
+sysbio
+printed
+plasticity
+overview
+systemsbiology
+"
+377,238188.tags,"alignment
+sequence
+bioinformatics
+"
+378,312476.tags,"bioinformatics
+nlp
+"
+379,329170.tags,"sca
+major proposal
+"
+380,332173.tags,"protein
+evolution
+major proposal
+alignment
+"
+381,241030.tags,"microarray
+statistics
+fdr
+"
+382,553497.tags,"speciation
+yeast
+"
+383,571538.tags,"snp
+cis trans
+microarray
+"
+384,620656.tags,"yeast
+cis trans
+"
+385,106364.tags,"transcription
+regulation
+mammals
+"
+386,272.tags,"network
+dynamics
+"
+387,307461.tags,"ecoli
+regulation
+networks
+"
+388,466068.tags,"transcription
+chip chip
+yeast
+"
+389,478707.tags,"protein protein
+essentiality
+yeast
+network
+"
+390,528160.tags,"expression
+mammals
+"
+391,540889.tags,"expression
+evolution
+primates
+"
+392,560813.tags,"protein
+yeast
+interaction
+"
+393,613191.tags,"yeast
+regulation
+metabolism
+"
+394,698675.tags,"transcription
+mammals
+footprinting
+tfbs
+"
+395,546157.tags,"ethics
+emotion
+thesis
+"
+396,98486.tags,"hci
+haptic
+"
+397,101973.tags,"prefrontal cortex
+learning
+monkey
+striatum
+"
+398,1197981.tags,"lip
+prefrontal
+attention
+monkey
+fef
+neurophysiology
+"
+399,121661.tags,"prediction error
+decision making
+reinforcement learning
+dopamine
+monkey
+learning
+"
+400,1322799.tags,"neuroeconomics
+human
+decision making
+choicebehavior
+incentives
+fmri
+discounting
+economics
+temporal discounting
+"
+401,1532668.tags,"striatum
+dorsal striatum
+reinforcement learning
+reward
+dopamine
+review
+decision
+basal ganglia
+"
+402,1632947.tags,"primate
+imitation
+social cognition
+primates
+evolution
+cognition
+distributed
+reasoning
+practical
+rationality
+non linguistic rationality
+"
+403,353537.tags,"reinforcement learning
+behavior
+dopamine
+"
+404,465989.tags,"neuroscience
+decision making
+risk
+neuroeconomics
+amygdala
+human processing
+uncertainty
+decsion making
+ambiguity
+"
+405,656280.tags,"future
+planning
+tool
+primate
+tool use
+call
+apes
+cognition
+"
+406,702349.tags,"fmri
+decision making
+exploration
+"
+407,771131.tags,"choice
+cingulate cortex
+contribution
+exchange
+social
+"
+408,771168.tags,"storage
+observational learning
+theory of mind
+food
+strategy
+srcub jays
+animal
+strategic
+"
+409,86865.tags,"monkey
+decision making
+reward
+neurophysiology
+"
+410,312119.tags,"statistical
+learning
+infant
+"
+411,312124.tags,"infant
+statistical
+learning
+"
+412,150261.tags,"rna
+pseudoknots
+folding
+"
+413,612608.tags,"structure
+review
+rna
+"
+414,1226851.tags,"networks
+bioinformatics
+computation
+statistics
+"
+415,302050.tags,"tom
+networks
+bioinformatics
+"
+416,86487.tags,"genetics
+microrna
+"
+417,880918.tags,"genomics
+chemical
+"
+418,1453145.tags,"search
+tool
+folksonomy
+tagging
+"
+419,422950.tags,"xml
+scholarly communication
+publishing
+web
+scientific
+research
+copyright
+collaboration
+creative commons
+data
+"
+420,740681.tags,"tagging
+folksonomy
+collaboration
+collaborative
+"
+421,99.tags,"small world
+networks
+disease
+dynamic
+"
+422,602903.tags,"songbirds
+recursion
+birds
+language
+"
+423,609199.tags,"sapir whorf
+counting
+numbers
+cognition
+language
+cpprosem2
+"
+424,114199.tags,"commons
+science
+diss prop
+game theory
+political science
+"
+425,504894.tags,"classification
+breast
+cancer
+microarray
+survival
+"
+426,101973.tags,"learning
+caudate
+pfc
+stimulusresponseassociation
+rt
+monkey
+reversal
+"
+427,155900.tags,"infants
+false belief
+"
+428,507926.tags,"decisionmaking
+decision
+"
+429,1794647.tags,"refinement
+comparative modeling
+simulation methods
+"
+430,248.tags,"systems biology
+review
+"
+431,249.tags,"review
+systems biology
+"
+432,272.tags,"protein networks
+systems biology
+"
+433,332173.tags,"suboptimal alignment
+sequence alignment
+"
+434,341252.tags,"bayesian
+rotamers
+"
+435,477450.tags,"proteomics
+molecular complexes
+experimental
+"
+436,239581.tags,"flexible protein
+nma
+kinesin
+docking
+"
+437,880918.tags,"geneexpression
+pharmacology
+"
+438,126997.tags,"protein
+structure
+analysis
+"
+439,227174.tags,"interaction
+protein
+"
+440,341252.tags,"side chain
+protein
+packing
+"
+441,363614.tags,"biological
+network
+"
+442,560813.tags,"protein
+interaction
+"
+443,114199.tags,"publicgood
+imt550
+gametheory
+economics
+environment
+sociology
+altruism
+"
+444,114199.tags,"economics
+tragedycommons
+environment
+socialscience
+"
+445,668899.tags,"tragedycommons
+culture
+cooperation
+society
+"
+446,142488.tags,"expression
+gene
+stochastic
+"
+447,553494.tags,"expression
+stochastic
+gene
+"
+448,622483.tags,"stochastic
+expression
+gene
+"
+449,118649.tags,"precursor
+mirna
+energy
+free
+structure
+folding
+"
+450,1362387.tags,"protein dna interactions
+chip chip
+"
+451,141524.tags,"molbio
+mesophysics
+"
+452,937059.tags,"molbio
+mesophysics
+stem
+"
+453,430079.tags,"review
+visual
+"
+454,546157.tags,"affect
+neuroscience
+cognition
+emotion
+"
+455,114199.tags,"macroeconomics
+economics
+politicalscience
+"
+456,84309.tags,"gametheory
+copyrights
+economics
+law
+"
+457,668899.tags,"network dynamics
+collective action
+nature
+cooperation
+social networks
+"
+458,506455.tags,"modelling
+synthetic biology
+"
+459,553494.tags,"noise
+gene expression
+"
+460,249.tags,"computational
+biology
+systems
+"
+461,549806.tags,"parameter
+sysbio
+pathway
+"
+462,136657.tags,"onto
+bib
+nlp
+bio
+txtmining
+"
+463,353538.tags,"computational
+review
+neuronal
+network
+neuroscience
+cortex
+"
+464,80410.tags,"long evans
+neuroscience
+cat
+two photon
+rat
+imaging
+column
+calcium
+cortex
+visual
+"
+465,309778.tags,"human
+inflammation
+immunology
+expression
+"
+466,334264.tags,"interactions
+proteins
+physical
+human
+"
+467,407273.tags,"biology
+system
+review
+integrative
+"
+468,477450.tags,"physical
+complex
+interactions
+proteins
+"
+469,99033.tags,"human
+genome wide
+snp
+population
+haplotype
+"
+470,312476.tags,"language acquisition
+3r
+grammar
+3i
+grammar context free
+rule
+algorithm adios
+motif extraction
+learning unsupervised
+search path
+"
+471,507926.tags,"decision making
+ 
+theory of unconscious thought
+attention
+effect deliberation without attention
+choice
+deliberation
+thought
+consciousness
+"
+472,2107.tags,"chip
+genomics
+transcriptional regulation
+yeast
+"
+473,1159615.tags,"prediction
+network
+protein
+"
+474,1307464.tags,"motif
+network
+network motif
+"
+475,1388250.tags,"genome
+encode
+rna
+rna world
+"
+476,44.tags,"social networks
+networks
+"
+477,47.tags,"small world
+networks
+"
+478,478707.tags,"network
+lethality
+protein
+centrality
+"
+479,668899.tags,"social networks
+evolution
+graphs
+"
+480,99.tags,"small world
+social networks
+small world networks
+"
+481,100166.tags,"cellular
+networks
+"
+482,112878.tags,"bioinformatics
+clustering
+non coding
+dna
+"
+483,528160.tags,"human
+expression
+mouse
+transcriptome
+gene
+"
+484,1453145.tags,"collaborative tagging
+tagging
+tag clouds
+folksonomies
+folksonomy
+"
+485,740681.tags,"phd
+folksonomy
+tagging
+folksonomies
+"
+486,525366.tags,"expression
+algorithm
+functional annotation
+gene set analysis
+microarray
+"
+487,833421.tags,"cancer
+interactome
+"
+488,86487.tags,"target
+microrna
+expression
+microarray
+"
+489,880918.tags,"signature
+expression
+map
+connectivity
+functional annotation
+"
+490,904109.tags,"microarray
+review
+expression
+"
+491,957831.tags,"snp
+map
+human
+disease
+"
+492,740681.tags,"social navigation
+folksonomies
+social informatics
+collaborative
+hcm2006
+folksonomy
+collaboration
+metadata
+tagging
+classification
+social
+social networks
+phd
+"
+493,702349.tags,"pfc
+quals
+decision making
+basal ganglia
+"
+494,778023.tags,"neural networks
+cs
+dimensionality reduction
+machine learning
+"
+495,86865.tags,"quals
+decision making
+"
+496,459365.tags,"socialnetworks
+dynamism
+evolution
+"
+497,740681.tags,"tagging
+classification
+folksonomies
+bookmarking
+social
+patterns
+"
+498,239581.tags,"kinesin
+molecular motors
+protein structure
+myosin
+protein dynamics
+nma
+"
+499,329170.tags,"bioinf methods
+protein evolution
+protein sequence
+correlated mutations
+protein design
+protein structure
+"
+500,354027.tags,"protein structure
+protein protein
+"
+501,778023.tags,"pca
+neural net
+r
+"
+502,1097231.tags,"association
+expression
+snps
+"
+503,112878.tags,"conservation
+selection
+evolution
+msa
+"
+504,1336057.tags,"expression
+rna
+"
+505,1551105.tags,"evolution
+acceleration
+chip chip
+yeast
+tf
+expression
+"
+506,1624776.tags,"yeast
+proteins
+evolution
+"
+507,1880339.tags,"fly
+conservation
+"
+508,1880603.tags,"genome
+evolution
+fly
+"
+509,227153.tags,"primates
+genome
+"
+510,2288308.tags,"msa
+alignment
+"
+511,229.tags,"evolution
+msa
+rodents
+genome
+"
+512,355574.tags,"msa
+evolution
+selection
+proteins
+acceleration
+"
+513,420465.tags,"msa
+phylogenetics
+evolution
+selection
+conservation
+"
+514,444860.tags,"rodents
+evolution
+msa
+genome
+"
+515,540889.tags,"primates
+arrays
+expression
+acceleration
+evolution
+msa
+"
+516,571538.tags,"arrays
+snps
+"
+517,99033.tags,"popgen
+snps
+"
+518,265789.tags,"nonhuman
+anlab
+language evolution
+language
+ur bcs 501
+"
+519,312119.tags,"statistical learning
+language
+infants
+rules
+language acquisition
+"
+520,312124.tags,"statistical learning
+language acquisition
+infants
+language
+"
+521,355574.tags,"popgen
+human
+positive
+selection
+"
+522,99033.tags,"snp
+selection
+positive
+human
+"
+523,302050.tags,"similarity
+modularity
+structural
+hierarhical
+clustering
+"
+524,459365.tags,"email
+network
+time
+prediction
+"
+525,407273.tags,"statistics
+s
+data integration
+systems biology
+statistical power
+"
+526,142488.tags,"genecircuits
+stochastic
+expression
+networks
+genevariation
+avano lab
+syntheticbiology
+gene
+geneticnetworks
+noise
+"
+527,2107.tags,"transcriptional regulation
+network
+thesis
+genomics
+yeast
+networks
+bivoc
+chip
+"
+528,292.tags,"design
+literature based discovery
+biological
+scientist
+robot
+automation
+experimental
+systems
+for
+"
+529,482101.tags,"transcription
+array
+selex
+factor
+binding
+"
+530,506455.tags,"development
+evolution
+regulation
+molecular signaling
+noise
+networks
+regulatory cascades
+morphogenesis
+expression
+gene expression
+gene expression
+gene
+collins lab
+transcriptional regulation
+transcription
+collins
+"
+531,698675.tags,"tfbs
+turnover
+alignment
+selection
+annotation
+footprinting
+evolution
+constraint
+conserved
+transcription
+mammal
+human
+prediction
+mammals
+rate
+"
+532,1272533.tags,"statistics
+analysis
+"
+533,1391621.tags,"attention
+monkeys
+visual
+synchronization
+"
+534,1418865.tags,"dopamine
+vta
+lateral habenula
+physiology
+snc
+"
+535,1532668.tags,"decision
+striatum
+reward
+dorsal striatum
+review
+"
+536,1568644.tags,"rate coding
+analysis
+synchronization
+"
+537,1610369.tags,"methods
+amygdala
+consolidation
+mutant mice
+c fos
+retrieval
+"
+538,353537.tags,"action selection
+reinforcement learning
+review
+dopamine
+"
+539,355573.tags,"striatum
+rats
+habit
+learning
+"
+540,506468.tags,"reward
+amygdala
+aversive
+"
+541,702349.tags,"cortex
+reinforcement learning
+decision
+explore exploit
+"
+542,86865.tags,"monkeys
+decision
+lip
+"
+543,100166.tags,"review
+networks
+bayesian
+transcription
+regulation
+"
+544,2107.tags,"chip2
+cis regulation
+transcription
+reconstruction
+network
+"
+545,227174.tags,"network
+network motif
+dynamic
+p2p
+"
+546,272.tags,"dynamic
+regulatory
+network
+"
+547,3594.tags,"regulatory
+network
+network motif
+p2p
+"
+548,466068.tags,"transcription
+cis regulation
+network
+regulatory
+chip2
+"
+549,477450.tags,"network
+p2p
+reconstruction
+"
+550,560813.tags,"network
+evolution
+reconstruction
+p2p
+resource
+"
+551,613191.tags,"transcription
+reconstruction
+regulatory
+network motif
+network
+metabolic
+chip2
+"
+552,86487.tags,"regulatory
+rna
+network
+"
+553,880918.tags,"phenotype
+networks
+expression
+"
+554,114199.tags,"agents
+rationality
+institutions
+5
+sustainability
+resourcemanagement
+"
+555,1632947.tags,"distributed
+evolution
+rationality
+primate
+"
+556,249.tags,"neuron
+intro
+evolution
+informationtheory
+simulation
+metabolism
+cas
+"
+557,43.tags,"design
+cell
+metabolism
+intro
+parsimony
+"
+558,137111.tags,"non mendelian inheritance
+genetics
+mendelian inheritance
+inheritance
+evolution
+"
+559,302050.tags,"network
+metabolic
+hierarchical
+modularity
+"
+560,540889.tags,"evolution
+gene regulation
+primates
+"
+561,771144.tags,"noncoding rna
+gene regulation
+"
+562,738207.tags,"rhetoric
+citation analysis
+discourse analysis
+"
+563,81501.tags,"community detection
+social networks
+clustering
+"
+564,620656.tags,"qtl
+expression
+yeast
+transcription
+regulation
+"
+565,114199.tags,"sociology
+economics
+"
+566,740681.tags,"classification
+social networks
+social informatics
+social navigation
+"
+567,609199.tags,"language
+cognition
+sapir whorf hypothesis
+number
+sapir whorf
+cpprosem2
+numbers
+counting
+"
+568,1206611.tags,"social
+network
+evolution
+"
+569,303889.tags,"empirical
+social network
+"
+570,459365.tags,"empirical
+dynamic
+social
+network
+"
+571,668899.tags,"networks
+evolution
+model
+game
+"
+572,81501.tags,"network
+subgroups
+community structure
+"
+573,99.tags,"model
+network
+"
+574,525366.tags,"expression
+analysis
+method
+"
+575,880918.tags,"toxicogenomics
+data
+analysis
+expression
+"
+576,312124.tags,"infant speech perception
+lexical development
+word learning
+"
+577,312476.tags,"statistics
+language acquistion
+artificial intelligence
+model
+"
+578,702349.tags,"reinforcement learning
+exploration
+brain
+"
+579,833421.tags,"networks
+systems biology
+scale free
+cancer
+bioinformatics
+protein interactions
+protein networks
+interactome
+"
+580,118649.tags,"rna
+non coding
+mirna precursor
+mirna
+"
+581,118744.tags,"rna
+scfg
+secondary structure
+"
+582,150261.tags,"pseudoknot
+secondary structure
+rna
+"
+583,1362387.tags,"solexa
+chipchip
+"
+584,904109.tags,"microarray
+qtl
+"
+585,702349.tags,"ofc
+fmri
+neuroscience
+exploration exploitation
+reward
+learning
+cortex
+ips
+neuroeconomics
+"
+586,778023.tags,"dimensionality reduction
+machine learning
+autoencoder
+neural network
+"
+587,80410.tags,"visual cortex
+optical imaging
+columnar organization
+"
+588,1067802.tags,"search
+bio inspired
+infotaxis
+optimization
+algorithm
+"
+589,44.tags,"coupled oscillator
+small world
+complex networks
+"
+590,84176.tags,"fractality
+complex networks
+"
+591,90558.tags,"complex networks
+scale free
+network
+"
+592,99.tags,"complex systems
+complex networks
+network
+small world
+"
+593,1116998.tags,"bioinformatics
+network
+"
+594,1362387.tags,"genome wide
+chip seq
+"
+595,1910555.tags,"network
+bioinformatics
+systems
+tfs
+"
+596,238188.tags,"bioinformatics
+blast
+"
+597,272.tags,"tfs
+bioinformatics
+yeast
+"
+598,466068.tags,"tfs
+network
+"
+599,613191.tags,"metabolite
+network
+yeast
+"
+600,880918.tags,"network
+small molecule
+tfs
+bioinformatics
+"
+601,101973.tags,"dynamics
+learning
+prefrontal cortex
+striatum
+"
+602,121661.tags,"dopamine
+reward
+reinforcement learning
+"
+603,1532668.tags,"basal ganglia
+striatum
+reinforcement learning
+dopamine
+review
+"
+604,355573.tags,"prefrontal cortex
+basal ganglia
+reinforcement learning
+striatum
+"
+605,802975.tags,"prefrontal cortex
+connectivity
+reward
+striatum
+"
+606,1388250.tags,"functional
+analysis
+genome
+encode
+human
+"
+607,523878.tags,"rna
+small
+arabidopsis
+"
+608,1307464.tags,"systems biology
+synthetic biology
+networks
+"
+609,1910555.tags,"expression regulation
+promoter
+synthetic biology
+"
+610,506455.tags,"expression regulation
+genetic circuits
+synthetic biology
+"
+611,1610369.tags,"c fos
+associative memory
+mouse
+transgenic
+2p
+morphology
+mutant mice
+method
+imaging
+l and m
+"
+612,353538.tags,"review
+cortex
+network
+computational
+"
+613,80410.tags,"rat
+2p
+columns
+functional
+imaging
+anatomy
+calcium
+circuits
+cat
+v1
+"
+614,211497.tags,"language
+syntax
+ d 
+evolution
+"
+615,303889.tags,"small world
+search
+empirical
+social networks
+"
+616,459365.tags,"social networks
+empirical
+dynamics
+"
+617,99.tags,"theoretical
+small world
+networks
+dynamics
+"
+618,478707.tags,"yeast
+protein
+coexpression
+"
+619,525366.tags,"gsea
+go
+"
+620,528160.tags,"microarray
+atlas
+"
+621,880918.tags,"microarray
+metastudy
+"
+622,957831.tags,"cnv
+microarray
+"
+623,112878.tags,"genomics
+dna
+"
+624,126997.tags,"structure prediction
+casp
+protein structure
+pdb
+"
+625,341252.tags,"protein structure
+structure prediction
+"
+626,353538.tags,"dendrites
+spines
+plasticity
+capacity
+learning
+"
+627,84309.tags,"economics
+property
+digital
+policy
+information
+rights
+intellectual
+"
+628,1206611.tags,"sociophysics
+social dynamics
+quantitative
+quantifying
+evolution
+cultural evolution
+"
+629,44.tags,"exploring
+network
+networks
+"
+630,239528.tags,"gene expression
+rma
+microarray
+"
+631,272363.tags,"survey
+text mining
+"
+632,1336057.tags,"noncoding rna
+rna
+transcription
+"
+633,1624776.tags,"yeast
+evolution
+synteny
+gene
+"
+634,1880603.tags,"12flies
+comparative genomics
+drosophila
+genome paper
+"
+635,1989097.tags,"gene finding
+comparative genomics
+annotation
+human
+noncoding
+genome annotation
+"
+636,229.tags,"comparative genomics
+mouse
+genome paper
+"
+637,415502.tags,"bioperl
+perl
+bioinformatics
+"
+638,444860.tags,"genome paper
+rat
+comparative genomics
+"
+639,430079.tags,"vision
+we know nothing
+v1
+neuroconcept
+neurophysiology
+model
+lgn
+retina
+"
+640,239528.tags,"expression
+normalization
+analysis
+data
+gene
+rma
+microarray
+"
+641,227153.tags,"human
+genomepaper
+tez
+"
+642,229.tags,"mouse
+genomepaper
+"
+643,420465.tags,"alignment
+tez
+conservation
+"
+644,546157.tags,"moral reasoning
+moral
+ethics
+neuroscience
+emotion
+"
+645,1206611.tags,"social networks
+social networks
+social analysis
+"
+646,44.tags,"social networks
+graph mining
+graph
+"
+647,459365.tags,"dynamic network
+social networks
+dynamic
+social analysis
+dynamic network analysis
+"
+648,1016800.tags,"networks
+duplication
+"
+649,141524.tags,"gene expr
+single cell
+"
+650,142488.tags,"gene expr
+networks
+"
+651,1880339.tags,"genomics
+droso
+"
+652,1880603.tags,"droso
+genomics
+phylogeny
+"
+653,227153.tags,"humans
+genomics
+"
+654,43.tags,"modeling
+complexity
+networks
+"
+655,454555.tags,"te
+bioinformatics
+rpt
+"
+656,106364.tags,"system  primates
+tech  motif analysis
+system  mouse
+tech  phylogenetic comparison
+"
+657,229.tags,"system  mouse
+key  genome
+"
+658,43.tags,"key  systems biology
+key  robustness
+type  review
+key  regulatory network
+"
+659,466050.tags,"system  drosophilidae
+key  gene expression
+key  molecular evolution
+tech  phylogenetic comparison
+"
+660,620656.tags,"key  gene expression
+tech  qtl
+system  yeast
+tech  population genetics
+tech  microarray
+"
+661,957831.tags,"system  primates
+key  genome
+key  molecular evolution
+"
+662,332173.tags,"bioinformatics
+allostery
+cooperativity
+"
+663,1602005.tags,"visualization
+network alignment
+tools
+protein protein
+"
+664,227174.tags,"network properties
+network topology
+interactions
+protein protein
+"
+665,309778.tags,"proteomics
+interactions
+protein protein
+"
+666,334264.tags,"protein protein
+interactions
+"
+667,407273.tags,"tools
+clustering
+methods
+statistics
+"
+668,478707.tags,"protein protein
+interactions
+"
+669,227174.tags,"proteins
+book
+scale free networks
+"
+670,478707.tags,"scale free networks
+proteins
+book
+"
+671,81501.tags,"communities
+book
+scale free networks
+"
+672,84176.tags,"scale free networks
+fractals
+"
+673,3594.tags,"genetics
+regulation
+network
+"
+674,86487.tags,"untranslated
+regions
+micrornas
+organ
+specificity
+genetics
+3
+"
+675,101.tags,"networks
+motifs
+"
+676,1307464.tags,"networks
+motifs
+"
+677,307461.tags,"motifs
+networks
+"
+678,553494.tags,"singlecell
+moleculedetection
+microfluidics
+"
+679,1320727.tags,"statistics
+genomics
+network
+analysis
+bioinformatics
+disease
+integration
+methodspaper
+systems
+"
+680,2100.tags,"yeast
+proteomics
+systems
+analysis
+array
+methodspaper
+genomics
+network
+integration
+deletion
+expression
+model
+bioinformatics
+"
+681,560813.tags,"interaction
+tap
+ht
+yeast
+complex
+"
+682,613191.tags,"network
+metabolic
+model
+methodspaper
+regulation
+transcription
+yeast
+"
+683,620656.tags,"tacqa
+expression
+qtl
+yeast
+"
+684,1307464.tags,"review
+network motifs
+gene regulation
+gene networks
+"
+685,141524.tags,"fluctuations
+noise
+experiment
+single cell
+gene expression
+stochasticity
+"
+686,142488.tags,"gene expression
+stochasticity
+experiment
+gene networks
+fluctuations
+noise
+"
+687,1910555.tags,"gene expression
+systems biology
+gene circuits
+synthetic biology
+"
+688,553494.tags,"gene expression
+experiment
+noise
+fluctuations
+single molecule
+stochasticity
+bursting
+"
+689,559064.tags,"gene expression
+gene networks
+review
+network motifs
+"
+690,622483.tags,"noise
+theory
+fluctuations
+gene expression
+"
+691,504894.tags,"expression
+breast
+microarray
+profile
+cancer
+veer
+"
+692,957831.tags,"cnv
+human
+snp
+"
+693,668899.tags,"cooperation
+evolution
+network
+"
+694,778023.tags,"deep
+belief
+inference
+network
+nets
+neural
+"
+695,121661.tags,"electrophysiology
+reward
+"
+696,86865.tags,"decision making
+electrophysiology
+ppc
+"
+697,1016800.tags,"evolution
+networks
+structural biology
+"
+698,1159615.tags,"protein function
+networks
+systems biology
+pathways
+"
+699,1388250.tags,"genetics
+gene function
+"
+700,238188.tags,"algorithm
+alignment
+"
+701,309778.tags,"disease
+networks
+systems biology
+"
+702,329170.tags,"protein folding
+protein function
+"
+703,880918.tags,"disease
+gene expression
+networks
+"
+704,1206611.tags,"thesis
+eur
+"
+705,668899.tags,"graph
+links
+network
+evolution
+"
+706,99.tags,"smallworld
+network
+graph
+thesis
+"
+707,460153.tags,"gene
+genomics
+evolutionary
+structure
+drift
+introns
+"
+708,1067802.tags,"ecology
+modelling
+artificial intelligence
+localization
+machine learning
+bio inspired
+simulation
+robot
+derivative free
+optimization
+path
+"
+709,549806.tags,"metaheuristic
+evolutionary computation
+stochastic
+biomedical
+comparison
+parameter estimation
+evolution strategies
+"
+710,1144477.tags,"neuroanatomy
+cortex
+imaging
+network
+topology
+"
+711,1197981.tags,"parietal
+prefrontal cortex
+attention
+"
+712,1568644.tags,"neurodynamics
+computation
+neuron
+correlation
+"
+713,353537.tags,"attention
+cognitive control
+behavioral control
+dopamine
+neuroscience
+"
+714,559064.tags,"evolution
+network
+developement
+genetics
+phylogeny
+"
+715,802975.tags,"learning
+cortex
+reinforcement
+reward
+basal ganglia
+"
+716,80410.tags,"neuroimaging
+network
+functional
+cellular
+neuroanatomy
+architecture
+"
+717,437770.tags,"secondary
+prediction
+structure
+rna
+rnasoft
+"
+718,833421.tags,"statistics
+human
+citesme
+interaction
+network
+"
+719,1067802.tags,"olfaction
+information
+"
+720,1568644.tags,"coding
+correlation
+integrate and fire
+"
+721,341252.tags,"rotamers
+protein
+sidechains
+bayesian
+"
+722,44.tags,"complexity
+graphs
+network
+"
+723,99.tags,"graphs
+network
+"
+724,1116998.tags,"identification
+sysbio
+review
+pathways
+"
+725,549806.tags,"paramestim
+identification
+pathways
+sysbio
+"
+726,101.tags,"motifs
+network
+"
+727,1159615.tags,"protein
+review
+prediction
+function
+network
+ppi
+"
+728,142323.tags,"analysis
+ppi
+statistical
+of
+domains
+"
+729,227174.tags,"ppi
+network
+modularity
+"
+730,937059.tags,"stem
+cell
+network
+ppi
+"
+731,446839.tags,"photography
+media
+photos
+blogs
+culture
+"
+732,740681.tags,"social software
+folksonomy
+tagging
+relevance
+web epistemology
+"
+733,504894.tags,"signature
+cancer
+microarray
+"
+734,937059.tags,"cell
+network
+stem
+"
+735,740681.tags,"golder
+citation
+tagging
+must
+huberman
+problems
+"
+736,1116998.tags,"network inference
+tutorial
+"
+737,1159615.tags,"prediction
+network
+yeast
+"
+738,1551105.tags,"yeast
+transcription
+"
+739,227174.tags,"yeast
+hubs
+ppi
+"
+740,459365.tags,"socialsimulation
+socialnetwork
+modeling
+evolutionary
+complexnetwork
+"
+741,81501.tags,"socialnetwork
+community
+clustering
+"
+742,1144477.tags,"anatomy
+cortical thickness
+brain
+connectivity
+imaging
+mri
+small world
+"
+743,265789.tags,"language
+gradu
+animal communication
+language evolution
+language complexity
+"
+744,312476.tags,"language acquisition
+constraints
+"
+745,477450.tags,"yeast
+ip
+proteome
+tap
+"
+746,560813.tags,"proteome
+yeast
+ip
+tap
+"
+747,112878.tags,"cne
+humans
+vertebrates
+"
+748,1392792.tags,"genome
+encode
+gene
+"
+749,1551105.tags,"divergence
+yeast
+binding site
+"
+750,238188.tags,"alignment
+algorithm
+"
+751,420465.tags,"cne
+comparative
+worms
+non coding
+vertebrates
+phastcons
+yeast
+insects
+"
+752,559064.tags,"evolution
+regulatory network
+grn
+"
+753,1137519.tags,"internet
+blog
+web
+20
+podcast
+"
+754,106364.tags,"transcription
+regulation
+"
+755,142488.tags,"genevariation
+networks
+"
+756,2107.tags,"yeast
+networks
+"
+757,272.tags,"topology
+networks
+"
+758,3594.tags,"networks
+motifs
+"
+759,506455.tags,"networks
+transcription
+"
+760,239569.tags,"foster
+distributed
+parallel
+hpc
+computing
+computers
+grid
+argonne
+globusproject
+globus
+"
+761,1388250.tags,"misc
+evolution
+"
+762,355574.tags,"evolution
+positive selection
+"
+763,957831.tags,"misc
+haplotypes
+nssnps
+evolution
+"
+764,101.tags,"graphs
+datamining
+network
+"
+765,363614.tags,"datamining
+graphs
+network
+"
+766,99.tags,"datamining
+network
+graphs
+"
+767,1391621.tags,"heather
+kristina
+attention
+arash
+"
+768,1392584.tags,"kristina
+attention
+eeg
+arash
+heather
+"
+769,1610369.tags,"associative memory
+general
+"
+770,1632947.tags,"nichola
+brian
+imitation
+jessica
+shiva
+social cognition
+"
+771,1926414.tags,"memory
+nichola
+consolidation
+kristina
+heather
+hippocampus
+learning
+pfc
+"
+772,656280.tags,"episodic memory
+planning
+general
+"
+773,1202726.tags,"microbial ecology
+marine
+biogeography
+"
+774,1202726.tags,"biology
+model
+ocean
+climate
+ecology
+phytoplankton
+"
+775,1272477.tags,"drought
+ecology
+vegetation
+climate
+precipitation
+tropics
+"
+776,1322886.tags,"carbon
+emissions
+regional
+ipcc
+co2
+economics
+climate
+projections
+sres
+"
+777,1631613.tags,"ocean
+impacts
+dic
+anthropogenic
+sulfur
+atmosphere
+co2
+nitrogen
+acidification
+climate
+carbon
+"
+778,375823.tags,"policy
+carbon
+co2
+energy
+stabilization
+climate
+economics
+mitigation
+"
+779,1206611.tags,"tagging
+sociology
+taggingpres
+socialnetworking
+networktheory
+"
+780,1206611.tags,"scientific
+cell
+phone
+dynamics
+collaboration
+percolation
+networks
+social
+"
+781,1752368.tags,"evolutionary
+thousand
+the
+language
+alternatives
+dynamics
+rule
+of
+tombstone
+is
+a
+"
+782,99.tags,"complex
+dynamics
+systems
+network
+"
+783,1133633.tags,"clustering
+structure
+rna
+alignment
+"
+784,1206611.tags,"evolution
+social
+network
+"
+785,1226851.tags,"bayesian
+bioinformatics
+"
+786,1307464.tags,"network
+motif
+review
+"
+787,1362387.tags,"protein
+rna
+genome
+interaction
+"
+788,1551105.tags,"yeast
+divergence
+transcription
+binding
+site
+"
+789,1610049.tags,"genome
+bacterial
+gene
+eukaryota
+evolution
+lgt
+"
+790,1624776.tags,"evolution
+gene
+"
+791,1794647.tags,"structure
+prediction
+"
+792,1880603.tags,"evolution
+genome
+gene
+phylogeny
+"
+793,1910555.tags,"gene
+expression
+synthetic
+promoter
+"
+794,2235507.tags,"promoter
+divergence
+gene
+expression
+evolution
+"
+795,528160.tags,"expression
+microarray
+gene
+transcriptome
+compendium
+"
+796,1206611.tags,"community
+networks
+evolution
+swarm
+"
+797,1391621.tags,"brain
+dynamics
+synchronization
+visual
+"
+798,265789.tags,"evolang
+recursion
+"
+799,312476.tags,"machine learning
+grammar
+computational linguistics
+induction
+"
+800,272.tags,"evolution
+motifs
+"
+801,540889.tags,"genomics
+genetics
+evolution
+gene
+regulation
+homo sapiens
+"
+802,668933.tags,"genetics
+dna
+"
+803,1551105.tags,"devin presented
+eisen journal club
+rich presented
+"
+804,2107.tags,"affin cut
+review
+"
+805,150261.tags,"rna secondary structure
+pseudoknots
+rna
+"
+806,612608.tags,"rna secondary structure
+review
+"
+807,1202726.tags,"41061108
+biogegraphy
+ocean
+models
+ecosystem
+microbial
+communites
+"
+808,101.tags,"link analysis
+web characterization
+data mining
+"
+809,363614.tags,"graph characterization
+motifs
+"
+810,121661.tags,"rpe
+reward
+dopamine
+"
+811,1418865.tags,"rpe
+stimulation
+habenula
+dopamine
+"
+812,1144477.tags,"connectivity
+network
+cortex
+"
+813,1532668.tags,"dorsal striatum
+decision making
+"
+814,1926414.tags,"cortex
+memory
+sleep
+"
+815,355573.tags,"neuron
+encoding recoding
+memory
+"
+816,44.tags,"neurons
+networks
+"
+817,465989.tags,"neural
+decision making
+"
+818,86865.tags,"choice
+limitations
+neurons
+other
+cortex
+decision making
+"
+819,99.tags,"dynamics
+networks
+"
+820,1322799.tags,"decisionmaking
+psych
+incentives
+social
+temporaldiscounting
+neuroscience
+economics
+"
+821,740681.tags,"communities
+online
+collaboration
+tagging
+"
+822,86865.tags,"brain
+decisionmaking
+neuroscience
+"
+823,1202726.tags,"emergent
+ecosystem
+biology
+biogeography
+phytoplankton
+ocean
+model
+gcm
+community
+"
+824,1272477.tags,"climate
+vegetation
+tropical
+drought
+ecology
+precipitation
+"
+825,1322886.tags,"regional
+climate
+emissions
+carbon
+scenarios
+co2
+economics
+global
+projections
+ipcc
+china
+"
+826,1631613.tags,"oceans
+co2
+carbon
+coastal
+atmospheric deposition
+nitrogen
+nitrate
+dic
+eutrophication
+sulfur
+acidification
+alkalinity
+"
+827,509425.tags,"runoff
+anthropogenic
+hydrology
+co2
+evapotranspiration
+rivers
+climate change
+"
+828,1159615.tags,"network
+function
+"
+829,1362387.tags,"genome
+interaction
+"
+830,1551105.tags,"compare genomics
+tfbs
+regulation
+"
+831,1794647.tags,"prediction
+structure
+"
+832,1910555.tags,"transcriptome
+transcription
+tfbs
+regulation
+expression
+"
+833,2288308.tags,"transcription
+regulation
+"
+834,272.tags,"regulation
+trn
+network
+transcription
+"
+835,528160.tags,"transcriptome
+tissue specific
+"
+836,559064.tags,"grn
+network
+trn
+"
+837,560813.tags,"network
+pin
+ppi
+"
+838,613191.tags,"integrative
+system biology
+"
+839,1320727.tags,"human
+disease
+bioinformatics
+global
+health
+systems
+"
+840,114199.tags,"sustainable development
+human population
+altruism
+commons
+classic
+human behaviour
+tenure
+"
+841,226992.tags,"kalimantan
+indonesia
+palm oil
+pa effectiveness
+deforestation
+satellite
+borneo
+enso
+great apes
+"
+842,375823.tags,"carbon
+redd
+mitigation
+biofuel
+wedges
+climate change
+"
+843,1067802.tags,"search
+simulation
+algorithm
+"
+844,1206611.tags,"community
+network
+"
+845,84176.tags,"network
+self similarity
+complex
+"
+846,1272533.tags,"methods
+statistics
+"
+847,1610049.tags,"drosophila
+genomics
+wolbachia
+"
+848,466050.tags,"hybrids
+drosophila
+cis regulation
+transcription
+trans regulation
+evolution
+gene regulation
+"
+849,303889.tags,"sociology
+small
+networks
+social
+worlds
+"
+850,307461.tags,"e
+genome
+network
+organization
+coli
+gene
+motif
+"
+851,1362387.tags,"chipseq
+sequencing
+dna protein interaction
+biotech
+"
+852,1624776.tags,"gene duplication
+fungi
+adaptation
+stress genes
+evolution
+"
+853,2235507.tags,"gene expression
+transcription factor binding site
+evolution
+"
+854,2288308.tags,"phylogenetics
+sequence alignment
+evolution
+faulty assumptions
+phylogenomics
+"
+855,239528.tags,"normalization
+robust
+average
+multichip
+rma
+"
+856,1226851.tags,"math
+bayesian
+review
+"
+857,1362387.tags,"genomic
+interaction
+"
+858,1388250.tags,"genomic
+encode
+"
+859,1392792.tags,"genomic
+general
+encode
+"
+860,1602005.tags,"review
+network
+"
+861,1880339.tags,"genome
+functional elements
+drosophila
+"
+862,1910555.tags,"promoter
+expression
+"
+863,1989097.tags,"genome
+sequence analysis
+genomic
+"
+864,1197981.tags,"simultanous recording
+pfc
+parietal cortex
+"
+865,1391621.tags,"simultanous recording
+parietal cortex
+"
+866,375823.tags,"economics
+sustainability
+deforestation
+nutrition
+energy
+decisions
+"
+867,740681.tags,"tagging
+delicious
+comportamento
+classificazione cooperativa
+utente
+folksonomy
+"
+868,1336057.tags,"expression
+transcriptome
+genome
+classification
+ncrna
+non coding
+transcription
+noncoding rna
+"
+869,227153.tags,"project
+official
+human
+genome
+"
+870,241030.tags,"alternative
+sequence
+humans
+array
+genome
+sam
+linkage
+regulation
+oligonucleotide
+exons
+genetic
+analysis
+sites
+statistics
+splicing
+animals
+transcription
+techniques
+genetics
+expression
+binding
+gene
+algorithms
+"
+871,415502.tags,"parser
+blast
+bioperl
+"
+872,226992.tags,"enso
+satellite
+pa effectiveness
+kalimantan
+borneo
+great apes
+deforestation
+indonesia
+gunung palung
+"
+873,1272533.tags,"bars
+error
+biology
+from kell
+"
+874,2163327.tags,"hype
+semantic web
+"
+875,238188.tags,"blast
+sequence jockey
+"
+876,239569.tags,"e science
+grid
+cyberinfrastructure
+"
+877,415502.tags,"biocorba
+perl
+buggotea
+blast
+emboss
+bioperl
+clustalw
+"
+878,3594.tags,"sysbio
+networks
+regulation
+transcription
+yeast
+"
+879,1465869.tags,"afrique
+genetique
+evolution
+paleoanthropologie
+phenotype
+200707
+"
+880,1465869.tags,"ibd
+out of africa
+pro replacement
+morphology
+genetics
+"
+881,1362387.tags,"transcription factors
+protein dna
+"
+882,833421.tags,"cancer
+networks
+"
+883,1206611.tags,"community
+tododiss
+evolution
+social
+graph
+"
+884,740681.tags,"tagging
+usage
+"
+885,1206611.tags,"dynamics
+complex
+algorithms
+math
+biology
+"
+886,459365.tags,"math
+stochastic
+graph
+topology
+complex
+"
+887,90558.tags,"graph
+networks
+models
+"
+888,99.tags,"networks
+small world
+"
+889,1465869.tags,"anthropology
+biology
+evolution
+race
+africa
+single origin
+"
+890,1362387.tags,"molecular
+protein
+"
+891,1392792.tags,"gene
+molecular
+"
+892,1551105.tags,"geneexpression
+yeast
+"
+893,1036681.tags,"dna
+assembly
+fragmentation
+molecular
+evolution
+"
+894,1036681.tags,"shuffling
+proteins
+mutagenesis
+dna
+assembly
+molecular
+evolution
+fragmentation
+"
+895,1097231.tags,"cnv
+expression
+genomics
+"
+896,1307464.tags,"network
+review
+"
+897,1320727.tags,"interactions
+genomics
+bioinformatics
+"
+898,1388250.tags,"encode
+affymetrix
+genomics
+race
+"
+899,957831.tags,"hapmap
+cnv
+genomics
+"
+900,126997.tags,"recognition
+fold
+protein
+structure
+prediction
+"
+901,241030.tags,"gene
+comparison
+multiple
+expression
+microarray
+fdr
+"
+902,525366.tags,"expression
+gsea
+gene
+microarray
+"
+903,778023.tags,"machinelearning
+deepbeliefnets
+dimensionalityreduction
+unsupervised
+neuralnetwork
+autoencoder
+"
+904,466050.tags,"expression
+hybrid
+trans
+cis
+evolution
+"
+905,540889.tags,"gene expression
+evolution
+human transcription factor
+"
+906,904109.tags,"genetics
+expression
+review
+evolution
+"
+907,1388250.tags,"evolution
+encode
+"
+908,1392792.tags,"evolution
+encode
+"
+909,1880603.tags,"method
+evolution
+genome
+"
+910,355574.tags,"mendelian
+evolution
+positiveselection
+snp
+"
+911,121661.tags,"decision making
+learning
+monkey
+dopamine
+reward
+neuroeconomics
+reinforcement
+motivation
+"
+912,465989.tags,"neuroscience
+risk
+uncertainty
+decision making
+neuroeconomics
+"
+913,506468.tags,"reward
+neuroscience
+monkeys
+punishment
+reinforcement learning
+reinforcement
+amygdala
+"
+914,507525.tags,"causation
+animals
+causal reasoning
+rats
+reasoning
+"
+915,507926.tags,"judgment
+deliberation
+dijksterhuis
+utt
+choice
+"
+916,546157.tags,"neuroscience
+morality
+fmri
+judgment
+moral
+"
+917,656280.tags,"tool
+planning
+apes
+future
+"
+918,771131.tags,"social
+exchange
+choice
+cingulate cortex
+contribution
+"
+919,771168.tags,"storage
+food
+strategic
+animal
+"
+920,86865.tags,"monkey
+decision making
+neuroeconomics
+reward
+"
+921,292.tags,"agi
+ai
+"
+922,613191.tags,"gene regulation
+palsson
+regulatory networks
+yeast
+fba
+"
+923,1392792.tags,"genomics
+ontology
+history
+science
+gene
+"
+924,2163327.tags,"informatics
+semanticweb
+web30
+"
+925,1137519.tags,"internet
+knowledgemanagement
+"
+926,272363.tags,"electronic
+knowledgemanagement
+information
+"
+927,1568644.tags,"correlation
+neural coding
+"
+928,99.tags,"small world
+network dynamics
+"
+929,211497.tags,"language
+thesis
+evolution
+"
+930,312476.tags,"language acquisition
+cat computer sciences
+machine learning
+protein classification
+grammar induction
+computational linguistics
+"
+931,333353.tags,"05matheco19
+cat physics
+network
+"
+932,101.tags,"motif
+network
+"
+933,1159615.tags,"network
+signal transduction
+motif
+"
+934,1307464.tags,"network
+tf
+motif
+"
+935,141840.tags,"microarray
+cluster
+"
+936,302050.tags,"network
+module
+"
+937,307461.tags,"motif
+network
+"
+938,1320727.tags,"disease
+network
+"
+939,504894.tags,"cancer
+disease
+predictor
+"
+940,1272533.tags,"analysis
+biology
+statistics
+visualizations
+"
+941,137111.tags,"evolution
+inheritance
+genomic
+dna
+"
+942,1392792.tags,"dna
+gene
+molecular
+biology
+genomics
+"
+943,80410.tags,"visual
+imaging
+cortex
+neuroscience
+"
+944,1197981.tags,"monkey
+attention
+top down
+bottom up
+visual search
+visual pop out
+"
+945,1391621.tags,"attention
+mt
+lip
+"
+946,1602005.tags,"network
+biological theme
+bioinformatics
+"
+947,1989097.tags,"evolution
+gene
+genome wide
+orf
+transcription
+rna
+"
+948,1320727.tags,"systems biology
+network
+disease
+topology
+"
+949,833421.tags,"network
+topology
+cancer
+"
+950,1388250.tags,"human genome
+encode
+"
+951,272.tags,"scale free
+transcription network
+"
+952,1272533.tags,"scholary
+confidence
+review
+reference
+statistics
+"
+953,1602005.tags,"visualization
+tools
+bioinformatics
+"
+954,106364.tags,"promotors
+microrna targets
+"
+955,1910555.tags,"actex
+transcription modules
+"
+956,549806.tags,"es
+evolution
+domain
+continuous
+ea
+"
+957,2107.tags,"gene
+expression
+feedback
+yeast
+"
+958,620656.tags,"eqtl
+yeast
+"
+959,904109.tags,"of
+genetics
+review
+gene
+expression
+"
+960,420465.tags,"yeast
+evolution
+worm
+conserved
+insect
+"
+961,1453145.tags,"folksonomy
+collaborative
+tagging
+tag
+cloud
+"
+962,303889.tags,"lecture 2
+social search
+"
+963,1610049.tags,"lateral transfer
+evolution
+bacteria
+"
+964,1880339.tags,"genomics
+evolution
+mirna
+fly
+motifs
+signatures
+"
+965,1880603.tags,"genomics
+selection
+fly
+evolution
+"
+966,620656.tags,"yeast
+transcription
+expression
+association
+"
+967,86487.tags,"microarray
+micrornas
+mirna target
+mirna
+"
+968,880918.tags,"networks
+expression
+association
+transcription
+"
+969,141524.tags,"cell
+noise
+single
+regulation
+gene
+"
+970,101.tags,"protein protein
+protein
+modularity
+patterns
+networks
+"
+971,354027.tags,"binding
+bioinformatics
+protein
+computational
+prediction
+protein protein
+structure
+interaction
+networks
+biology
+"
+972,1206611.tags,"community
+organizations
+collaboration
+persistence
+practices
+"
+973,1632947.tags,"non linguistic rationality
+practical
+rationality
+reasoning
+cognition
+"
+974,112878.tags,"genomics
+evolutionary comparisons
+multiple alignment
+"
+975,1226851.tags,"bayesian statistics
+computational biology
+bioinformatics
+systems biology
+"
+976,1362387.tags,"chip seq
+genomics
+cis regulatory elements
+"
+977,482101.tags,"dna binding
+molecular biology techniques
+microarray
+transcription factors
+"
+978,1752368.tags,"models
+language evolution
+"
+979,312119.tags,"statistical learning
+cross situational
+artificial grammars
+"
+980,312476.tags,"syntactic acquisition
+machine learning
+computational linguistics
+models
+"
+981,1116998.tags,"grn
+network inference
+"
+982,1752368.tags,"language
+evolutionary dynamics
+"
+983,86487.tags,"microrna microarray
+microrna
+"
+984,1097231.tags,"variation
+cis regulatory
+mammals
+"
+985,112878.tags,"noncoding
+mammals
+"
+986,1551105.tags,"cis regulatory
+fungi
+"
+987,2235507.tags,"microarray
+fungi
+cis regulatory
+"
+988,420465.tags,"flies
+mammals
+noncoding
+worms
+"
+989,466050.tags,"cis regulatory
+flies
+"
+990,466068.tags,"cis regulatory
+fungi
+"
+991,1752368.tags,"games
+dynamics
+language
+"
+992,239581.tags,"computation
+motor
+biology
+simulation
+myosin
+kinesin
+"
+993,525366.tags,"enrichment
+statistics
+pathway analysis
+genomics
+"
+994,528160.tags,"systems biology
+genomics
+"
+995,1392584.tags,"alpha
+vision
+human
+oscillation
+gamma
+eeg
+"
+996,400238.tags,"biological
+mirror
+imitation
+mirror neuron
+learning
+perception
+"
+997,272.tags,"genome
+network
+regulatory
+topology
+"
+998,3594.tags,"network
+interaction
+protein protein
+"
+999,231294.tags,"software
+bayesian
+refs snps
+mrbayes
+evolution
+refs catalytic
+"
+1000,406519.tags,"bacterial
+ch3
+network
+refs ox
+signalling
+"
+1001,1624776.tags,"geneorder
+synteny
+genometrees
+"
+1002,1272533.tags,"statistics
+biology
+"
+1003,937059.tags,"embryonic
+biology
+transcriptome
+stem cells
+"
+1004,84176.tags,"self organisation
+self similarity
+complex
+networks
+structure
+"
+1005,1226851.tags,"algorithm
+2007
+bioinformatics
+bayesian
+"
+1006,1880339.tags,"drosophila
+bioinformatics
+2007
+comparative genomics
+"
+1007,1880603.tags,"comparative genomics
+evolution
+phylogeny
+2007
+drosophila
+"
+1008,415502.tags,"bioinformatics
+algorithm
+software
+2002
+"
+1009,1632947.tags,"action
+science
+goal directed
+monkey
+macaque
+"
+1010,261639.tags,"eligibility trace
+dopamine cells
+reinforcement learning
+"
+1011,465989.tags,"reward
+decisionmaking
+uncertainty
+"
+1012,329170.tags,"fold
+protein
+evolutionary
+"
+1013,332173.tags,"energetic
+evolutionarily
+conserved
+"
+1014,1880339.tags,"fly
+networks
+regulatory
+"
+1015,2107.tags,"network motifs
+tfnets
+"
+1016,1880339.tags,"comparative
+genome
+"
+1017,2107.tags,"yeast
+genomic
+"
+1018,466068.tags,"comparative
+genomic
+yeast
+"
+1019,1752368.tags,"evolution
+clip2
+language
+"
+1020,1794647.tags,"prediction
+protein
+computation
+structure
+"
+1021,141840.tags,"cluster
+puces adn
+stat
+transcriptome
+"
+1022,239528.tags,"transcriptome
+stat
+puces adn
+genomique
+"
+1023,241030.tags,"stat
+genomique
+"
+1024,309778.tags,"network
+analyse
+puce adn
+inflammation
+"
+1025,506455.tags,"expression
+stochastic
+"
+1026,622483.tags,"stochastic
+gene
+expression
+model
+"
+1027,1910555.tags,"organization
+activator
+model
+synthetic
+coli
+luciferase
+factor
+arac
+transcription
+operator
+bioinformatics
+regulation
+noncoding
+polymerase
+logic
+arabinose
+biology
+comparative
+gene
+library
+prokaryote
+repression
+protein
+combinatorial
+activation
+circuits
+architecture
+bacteria
+promoter
+lac
+laci
+sequence
+initiation
+interaction
+repressor
+experimental
+"
+1028,738207.tags,"physicians
+co citations
+authority
+quality
+index
+connections
+analysis
+webometrics
+webmetrics
+influence
+co citation
+citations
+researchers
+central
+contribution
+experts
+discourse analysis
+expert
+discourse
+author influence
+graphing
+discourse analysis
+bibliography
+pub
+publications
+biomedical
+metrics
+kol
+pubs
+authors
+paper
+kols
+medicine
+indices
+highly cited
+impact
+medical
+mapping
+bibliometrics
+impact factor
+impact factor
+scientometrics
+webliometrics
+literature
+citation analysis
+author influence
+article
+significance
+co authorship
+ranking
+articles
+performance
+sna
+social network analysis
+social
+leaders
+webliography
+citationanalysis
+leader
+author impact
+centrality
+influential
+author impact
+key opinion leader
+citation
+thought leader
+author
+social network analysis
+keyopinionleader
+citation analysis
+thought leader
+authorities
+socialnetworks
+"
+1029,98486.tags,"2nd order stats
+intermodal perception
+statistical learning
+probabilistic perception
+context effects
+haptics
+vision
+cue integration
+ambiguity
+"
+1030,1752368.tags,"historical
+words
+language
+lexicography
+linguistics
+"
+1031,1137519.tags,"web20
+internet
+ehealth
+health
+publichealth
+"
+1032,272363.tags,"comps
+wendy
+all
+"
+1033,422950.tags,"all
+editorial
+data sharing
+culture
+trends
+"
+1034,525366.tags,"jim
+comps
+all
+"
+1035,740681.tags,"collective knowledge
+tagging
+collaborative
+km
+folksonomy
+knowledge
+"
+1036,1016800.tags,"binding
+evolution
+hub
+proteins
+interactions
+"
+1037,1602005.tags,"biological
+assessment
+networks
+visulization
+"
+1038,1322886.tags,"co2
+emissions
+"
+1039,509425.tags,"transpiration
+ecosystem response
+co2
+river
+"
+1040,142323.tags,"domains
+statistics
+protein
+interaction
+"
+1041,1989097.tags,"bioinformatics
+genomics
+"
+1042,1880603.tags,"repeats
+genome size
+phylogeny
+dmel
+droso
+"
+1043,454555.tags,"rpt
+bioinformatics
+repeats
+"
+1044,332150.tags,"flcdna
+annotation
+transcriptome
+"
+1045,740681.tags,"urn
+model
+jis
+behavior
+tagging
+modeling
+characterization
+user
+"
+1046,44.tags,"complex networks
+survey
+"
+1047,47.tags,"model
+small world
+navigation
+complex networks
+"
+1048,99.tags,"small world
+clustering
+model
+social networks
+complex networks
+"
+1049,1322799.tags,"discounting
+temporal
+reward
+human
+"
+1050,261639.tags,"reinforcement
+conditioning
+dopamine
+learning
+"
+1051,226992.tags,"borneo
+luc
+indonesia
+forests
+protected areas
+"
+1052,1388250.tags,"regulation
+accessibility
+non protein coding
+modification
+histone
+and
+transcriptional
+chromatin
+transcripts
+"
+1053,1610369.tags,"tools
+memory
+amygdala
+molecular
+biology
+"
+1054,1910555.tags,"syntheticbiology
+rules
+promoter
+excellent
+design
+"
+1055,1016800.tags,"interactions
+sin
+structure
+"
+1056,227174.tags,"party
+date
+interactions
+"
+1057,312476.tags,"ml
+language
+compling
+compsci
+"
+1058,98486.tags,"modeling
+hap perception
+cue integration
+bayesian
+vis perception
+cogsci
+"
+1059,227153.tags,"11
+intro
+te
+cited
+"
+1060,229.tags,"cited
+11
+"
+1061,454555.tags,"multiplealign
+recon
+cited
+alignment
+clustering
+te
+213
+"
+1062,2235507.tags,"gene
+promoter
+expression
+"
+1063,2288308.tags,"alignment
+bioinformatics
+genome
+"
+1064,465989.tags,"uncertainty
+human
+risk
+fmri
+"
+1065,802975.tags,"dorsal
+ventral
+reward
+monkey
+pfc
+"
+1066,265789.tags,"evolution
+development
+speech
+brain
+concepts
+monkey
+learning
+knowledge
+language
+words
+"
+1067,602903.tags,"language
+recursion
+acquisition
+birds
+animal
+"
+1068,98486.tags,"cue integration
+vision
+optimization
+haptic
+bayesian
+"
+1069,307461.tags,"complex
+network
+biological
+motif
+"
+1070,227153.tags,"whole genome
+sequencing
+"
+1071,229.tags,"whole genome
+sequencing
+"
+1072,1097231.tags,"gwas
+eqtl
+"
+1073,1362387.tags,"sequencing
+method
+chip
+cisreg
+"
+1074,239581.tags,"molecular motors
+protein dynamics
+myosin
+protein structure
+nma
+kinesin
+"
+1075,118727.tags,"secondary
+structure
+rna
+fold
+"
+1076,1388250.tags,"function
+encode
+genome
+human
+"
+1077,1610049.tags,"genetics
+lgt
+bacteria
+eukaryotes
+have as pdf
+phylogeny
+evolution
+"
+1078,121661.tags,"neuron
+neuroeconomics
+prediction
+uncertainty
+decisionmaking
+reward
+"
+1079,363614.tags,"math
+social
+web graph
+"
+1080,47.tags,"web graph
+social
+"
+1081,112878.tags,"ultraconserved
+human genome
+mutation
+selection
+"
+1082,227153.tags,"whole genome
+sequence
+human genome
+genome
+"
+1083,2288308.tags,"methods
+alignment
+genomics
+phylogenetics
+"
+1084,229.tags,"whole genome
+mouse
+genome
+comparative genomics
+sequence
+"
+1085,355574.tags,"coding
+selection
+genome evolution
+evolution
+mutation rate
+"
+1086,420465.tags,"phastcons
+mutation rate
+genome evolution
+cns
+comparative genomics
+conservation
+evolution
+"
+1087,444860.tags,"genome
+whole genome
+sequence
+rat
+comparative genomics
+"
+1088,454555.tags,"recon
+binfo
+repeats
+tools
+"
+1089,142488.tags,"noise
+genecircuits
+avano lab
+"
+1090,303213.tags,"nature publishing group
+connotea
+citeulike
+social software
+"
+1091,80410.tags,"imaging
+neuro
+"
+1092,84309.tags,"journalscan
+economics
+ip
+"
+1093,303889.tags,"small world
+social science
+networks
+anth315
+milgram
+"
+1094,265789.tags,"linguistics
+evolution
+"
+1095,312119.tags,"learning
+linguistics
+psycholinguistics
+psychology
+"
+1096,312124.tags,"learning
+psycholinguistics
+cogsci
+"
+1097,312476.tags,"unsupervised
+nlp
+machine learning
+"
+1098,100166.tags,"review
+bio
+"
+1099,142323.tags,"ppi
+bio
+"
+1100,227174.tags,"bio
+graph based analysis
+ppi
+"
+1101,272.tags,"reconstruct pathway
+graph based analysis
+bio
+"
+1102,354027.tags,"bio
+ppi
+"
+1103,407273.tags,"multiple data sources
+bio
+"
+1104,477450.tags,"high throughput dataset
+ppi
+bio
+"
+1105,560813.tags,"high throughput dataset
+ppi
+bio
+"
+1106,1159615.tags,"network
+graph theory
+review
+"
+1107,307461.tags,"dense overlapping regulon
+network
+feedforward
+e coli
+systems approach
+transcription
+network motifs
+"
+1108,406519.tags,"network
+noise
+signaling
+gene order
+design principles
+"
+1109,98486.tags,"vision
+haptics
+multimodal
+integration
+crossmodal
+"
+1110,265789.tags,"genetics
+bcs501
+evolution
+language
+week2
+"
+1111,312119.tags,"infants
+headturn
+statisticallearning
+rules
+models
+"
+1112,312124.tags,"syllables
+statisticallearning
+infants
+transitionalprobabilities
+"
+1113,141524.tags,"expression
+gene
+noise
+"
+1114,1568644.tags,"coding
+redundancy
+lif
+correlation
+"
+1115,353537.tags,"neuroscience
+network
+learning
+"
+1116,353538.tags,"network
+brain
+learning
+"
+1117,406519.tags,"expression
+noise
+network
+"
+1118,430079.tags,"coding
+model
+strf
+visual
+"
+1119,506455.tags,"expression
+noise
+"
+1120,553494.tags,"noise
+expression
+"
+1121,559064.tags,"evolution
+network
+development
+phylogeny
+gene
+"
